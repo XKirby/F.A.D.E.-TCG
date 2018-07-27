@@ -1,0 +1,15 @@
+<formatdefinitions>
+
+<format>
+	<label>Generation 1</label>
+	<set>EOE</set>
+	<set>GMT</set>
+</format>
+
+<format>
+	<label>Unlimited</label>
+	<set>EOE</set>
+	<set>GMT</set>
+</format>
+
+</formatdefinitions>
