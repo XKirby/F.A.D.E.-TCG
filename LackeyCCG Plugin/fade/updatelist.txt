@@ -1,18 +1,18 @@
 fade	06-27-18
-plugins/fade/plugininfo.txt	https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/plugininfo.txt	734029
-plugins/fade/formats.txt	https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/formats.txt	16584
-plugins/fade/rulebook.pdf	https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/rulebook.pdf	2005849
-plugins/fade/images/counterblack.png	https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/images/counterblack.png	4346
-plugins/fade/images/counterblue.png	https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/images/counterblue.png	-2283
-plugins/fade/images/countergreen.png	https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/images/countergreen.png	11804
-plugins/fade/images/counterindigo.png	https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/images/counterindigo.png	7295
-plugins/fade/images/counterorange.png	https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/images/counterorange.png	2345
-plugins/fade/images/counterred.png	https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/images/counterred.png	-6328
-plugins/fade/images/counterviolet.png	https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/images/counterviolet.png	2831
-plugins/fade/images/counterwhite.png	https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/images/counterwhite.png	9590
-plugins/fade/images/counteryellow.png	https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/images/counteryellow.png	1506
-plugins/fade/sets/fadesetEOE.txt	https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/sets/fadesetEOE.txt	3840539
-plugins/fade/sets/fadesetGMT.txt	https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/sets/fadesetGMT.txt	5137014
-plugins/fade/sets/setimages/general/cardback.png	https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/setimages/general/cardback.png	-88556
+plugins/fade/plugininfo.txt	https://github.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/plugininfo.txt	734029
+plugins/fade/formats.txt	https://github.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/formats.txt	16584
+plugins/fade/rulebook.pdf	https://github.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/rulebook.pdf	2005849
+plugins/fade/images/counterblack.png	https://github.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/images/counterblack.png	4346
+plugins/fade/images/counterblue.png	https://github.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/images/counterblue.png	-2283
+plugins/fade/images/countergreen.png	https://github.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/images/countergreen.png	11804
+plugins/fade/images/counterindigo.png	https://github.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/images/counterindigo.png	7295
+plugins/fade/images/counterorange.png	https://github.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/images/counterorange.png	2345
+plugins/fade/images/counterred.png	https://github.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/images/counterred.png	-6328
+plugins/fade/images/counterviolet.png	https://github.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/images/counterviolet.png	2831
+plugins/fade/images/counterwhite.png	https://github.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/images/counterwhite.png	9590
+plugins/fade/images/counteryellow.png	https://github.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/images/counteryellow.png	1506
+plugins/fade/sets/fadesetEOE.txt	https://github.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/sets/fadesetEOE.txt	3840539
+plugins/fade/sets/fadesetGMT.txt	https://github.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/sets/fadesetGMT.txt	5137014
+plugins/fade/sets/setimages/general/cardback.png	https://github.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/setimages/general/cardback.png	-88556
 CardGeneralURLs:
-https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/sets/setimages/cards
+https://github.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/sets/setimages/cards
