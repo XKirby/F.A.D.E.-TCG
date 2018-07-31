@@ -1,7 +1,7 @@
 <version>
-	<lastupdateYYMMDD>180627</lastupdateYYMMDD>
+	<lastupdateYYMMDD>180630</lastupdateYYMMDD>
 	<quality>MEDIUM</quality>
 	<versionurl>https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/version.txt</versionurl>
 	<updateurl>https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/updatelist.txt</updateurl>
-	<message>Now on Github!</message>
+	<message>Fixed Cards being the wrong size, and Power Veil does something now.</message>
 </version>

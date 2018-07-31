@@ -106,7 +106,7 @@ Judo Throw	GMT	GMT-104.png	Fire	N/A	N/A	N/A	N/A	Hyper Rank	Reaction - Physical	5
 Lightning Reflexes	GMT	GMT-105.png	Storm	N/A	N/A	N/A	N/A	Special Rank	Reaction	2TP	Common	Prevent 3 damage of each hit of 1 attack.
 Lightning Rod	GMT	GMT-106.png	Metal/Storm	N/A	N/A	N/A	N/A	Hyper Rank	Reaction	6TP	Common	Target 1 ally. Block 1 Energy attack of Hyper Rank or lower that would hit your target.
 Liquid Form	GMT	GMT-107.png	Water	N/A	N/A	N/A	N/A	Hyper Rank	Reaction	9TP	Rare	Negate 1 Physical attack of Ultra Rank or lower.;Other Reactions the user activates cost 2 fewer TP.
-Power Veil	GMT	GMT-108.png	Water/Storm	N/A	N/A	N/A	N/A	Special Rank	Reaction	0TP	Rare	This card can be played from your Hand without you being in The Last Stand.
+Power Veil	GMT	GMT-108.png	Water/Storm	N/A	N/A	N/A	N/A	Special Rank	Reaction	0TP	Rare	This card can be played from your Hand without you being in The Last Stand.;This card can be used during any Phase.;You gain 4 TP. You can only spend this TP to pay for Reactions. You lose any unspent TP gained this way during this turn's End Phase.
 Quicksilver Slide	GMT	GMT-109.png	Time/Metal	N/A	N/A	N/A	N/A	Hyper Rank	Reaction	5TP	Uncommon	Block 1 attack of Hyper Rank or lower. You gain 1 TP for each hit blocked this way.
 Rapid Evolution	GMT	GMT-110.png	Time/Nature	N/A	N/A	N/A	N/A	Special Rank	Reaction	4TP	Common	Choose an attack Subtype. For all attacks of the chosen Subtype targetting the user this turn, damage they deal is divided by 2, rounded up.
 Re-entry Slide	GMT	GMT-111.png	Space/Time	N/A	N/A	N/A	N/A	Hyper Rank	Reaction	6TP	Common	This card can only be used if the user's AGI is higher than the attacker's AGI.;Prevent 1 attack of Ultra Rank or lower.
