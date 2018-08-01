@@ -1,3 +1,7 @@
+<< Posted on August 01, 2018 >>
+- Just some card fixes. Some cards were missing or had incorrect information again, so I fixed them.
+- Removed the "Unlimited" Format from the LackeyCCG Plugin.
+
 << Posted on June 27, 2018 >>
 - Went through a major Card Template redesign!
   - Unfortunately I have to REMAKE EVERY CARD AUGH ;-;
