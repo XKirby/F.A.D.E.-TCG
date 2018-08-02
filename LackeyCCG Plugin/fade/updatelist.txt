@@ -1,7 +1,7 @@
 fade	07-01-18
 plugins/fade/plugininfo.txt	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/plugininfo.txt	734029
 plugins/fade/formats.txt	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/formats.txt	10355
-plugins/fade/rulebook.pdf	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/rulebook.pdf	2005849
+plugins/fade/rulebook.pdf	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/rulebook.pdf	1007465
 plugins/fade/images/counterblack.png	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/images/counterblack.png	4346
 plugins/fade/images/counterblue.png	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/images/counterblue.png	-2283
 plugins/fade/images/countergreen.png	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/images/countergreen.png	11804
