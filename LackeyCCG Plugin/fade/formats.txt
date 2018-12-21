@@ -4,6 +4,7 @@
 	<label>Generation 1</label>
 	<set>EOE</set>
 	<set>GMT</set>
+	<set>LNL</set>
 </format>
 
 </formatdefinitions>

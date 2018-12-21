@@ -1,7 +1,7 @@
 <version>
-	<lastupdateYYMMDD>180701</lastupdateYYMMDD>
+	<lastupdateYYMMDD>181221</lastupdateYYMMDD>
 	<quality>MEDIUM</quality>
 	<versionurl>https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/version.txt</versionurl>
 	<updateurl>https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/updatelist.txt</updateurl>
-	<message>Fixed some cards having missing or incorrect data formatting.</message>
+	<message>Added Set Locked-N'-Loaded!</message>
 </version>
