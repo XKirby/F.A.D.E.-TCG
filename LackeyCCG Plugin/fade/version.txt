@@ -1,7 +1,7 @@
 <version>
-	<lastupdateYYMMDD>181221</lastupdateYYMMDD>
+	<lastupdateYYMMDD>181222</lastupdateYYMMDD>
 	<quality>MEDIUM</quality>
 	<versionurl>https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/version.txt</versionurl>
 	<updateurl>https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/updatelist.txt</updateurl>
-	<message>Added Set Locked-N'-Loaded!</message>
+	<message>Added some Theme Decks and fixed some typos and balance issues.</message>
 </version>
