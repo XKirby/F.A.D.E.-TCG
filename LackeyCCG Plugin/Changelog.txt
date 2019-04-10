@@ -1,6 +1,180 @@
-<< Posted on August 01, 2018 >>
-- Just some card fixes. Some cards were missing or had incorrect information again, so I fixed them.
-- Removed the "Unlimited" Format from the LackeyCCG Plugin.
+<< LATEST CHANGES >>
+Added New Keywords and added them plus some other missing ones to the rulebook.
+  - Backup
+  - Synchronize
+  - Reinforce
+Fixed up the Template design a bit.
+Updated some rules in the rulebook to work with Synchronize.
+Cards with Lock-On can now target cards directly in the Reserve Zone.
+Mild card rebalancing.
+  - Note that I say mild, but some cards were hit pretty harsh. Just not a lot of them.
+
+<< Posted on December 22 2018 >>
+- Updated the rulebook slightly.
+  - I still need to add some of the keywords in here, but it'll be fine for now.
+- Fixed an issue with the Set Databases for Lackey not listing JPG files instead of PNG files.
+  - I think I just forgot to move files over. Whoopsies
+- Added 2 Theme Decks to the LackeyCCG Plugin!
+  - I'll be adding more decks soon.
+- Updates to Set EOE:
+  - Engine Heart: Reworded.
+  - Prize Core: Nerfed draw power.
+  - Serpent Soul: Reworded slightly.
+  - Aqua Stalker: Reworded slightly.
+  - Comet Rider: Reworded slightly.
+  - Shinesteel Sentinel: Reworded slightly.
+  - Space Kraken: Reworded slightly.
+  - Thunder Hermit: Reworded.
+  - Counter Generator: Reworded slightly.
+  - Ejector Seat: Fixed a typo.
+  - Element Bane Ward: Fixed an issue.
+  - Amplify: Reworded/fixed.
+  - Flareskin: Reworded.
+  - Quake Counter: Fixed a typo.
+  - Seismic Buster: Fixed an issue.
+  - False Fight: Reworded.
+  - Frozen Fire: Card Manips the top cards of your deck instead of shuffling.
+  - Magnetite Blast: Reworded slightly.
+  - Mimic Attack: Reworded slightly.
+  - Reverse Flow: Reworded slightly.
+- Updates to Set GMT:
+  - Fixed a few cards where Mythical was listed after Level Up.
+  - Narsai, Essence of Nothingness: Reworded slightly, gave Metal/Nature Elements.
+  - Amnesia Grenade: Gave Lock-On, reworded slightly.
+  - Dark Arcana: Fixed the fact that it had no listed Rank.
+  - Triage Center: Reworded, set to Common.
+  - Script of Balance: Reworded slightly.
+  - Skysunder: Reworded slightly.
+  - Worldcleaver: Reworded slightly.
+  - Autoblock: Reworded slightly.
+  - Debris Field: Reworded slightly.
+  - Hard Counter: Reworded slightly.
+  - Power Veil: Reworded slightly.
+  - Riposte: Made Physical.
+  - Choking Fog: Reworded slightly.
+  - Coordinated Strike: Reworded slightly.
+  - Cresting Wave Kick: Reworded slightly.
+  - Drowning Tsunami: Fixed a typo.
+  - Dynaforce: Made stronger and more expensive.
+  - Earthquake Punch: Reworded slightly, deals Fracture instead of Drain.
+  - Emberburst: Lowered damage output greatly.
+  - Feral Roar: Allowed playing from Hand.
+  - Frost Heave: Fixed a typo, made more useful.
+  - Galactic Beam: Removed Player Sniping ability.
+  - Geyser Punch: Reworded slightly, made more clear.
+  - Mountain Hammer: Made Overdrive less expensive.
+  - Quantum Laser: Reworded slightly.
+  - Regrowth: Effect changed slightly, mnstly a nerf.
+  - Slay The Weak: Made Uncommon.
+  - Tech Overload: Lowered damage output greatly.
+  - Void Ray: Reworded slightly.
+
+<< Posted on December 21, 2018 >>
+- Added Set LNL back into the game!
+- Static is no longer used for basic damage, as Unblockable and Relentless are purely keywords.
+- All images for the LackeyCCG Plugin, including the newly added set, were changed to JPEGs to reduce filesize.
+- Updates to Set EOE:
+  - Molten Cannon: Fixed a typo.
+- Updates to Set GMT:
+  - Temporal Freeze: TP Cost increased, now Devastation Rank.
+- Updates to Set LNL:
+  - Blessing of Seasons: Lowered TP Cost to 3 and Power Counter Storage Limit to 5.
+  - Clarify: No longer an Arena Augment and no longer grants TP, instead focusing on mass discarding.
+  - Dark Sovereignty: Added Drain Immune.
+  - Gaia Force: Removed entirely, to put into Set VIC.
+  - Gradual Power Surge: Uses discarded cards instead of TP to gain more TP. Might be a bit OP.
+  - Tactical Brilliance: Had to nerf due to original card being unclear.
+  - Thunder Force: Removed entirely, to put into Set VIC.
+  - Chaosborn: Buffed, but a little more expensive to get going.
+  - Deepwater Phantom: Made more interesting, but overall it's a hefty nerf.
+  - Dreadforge Armorer: Switched to Water-type, with Water Affinity, as well as changing from +PLV to +DEF.
+  - Dreadforge Conduit: Rebalanced a bit, uses Multitarget instead of Combo to gain TP.
+  - Fury Elemental: No longer deals with Drain Counters, instead being forced to attack even if you don't want to.
+  - Hellshadow: HUGE cost, HUGE ability. Null Lock is gonna be hard to deal with.
+  - Lunarian Orbitron: Upped Stacker to 3, switched to Space/Metal-types, no longer self-Rifts, instead using its Stack to Deflect.
+  - Prism Warrior: Switched to Light/Water-types, Mystify changed to reveal hand for Deflect attacks.
+  - Soul of the Blade: Switched to Light/Metal, Signature is also displayed differently (and hopefully clearer)
+  - Soul's Eye Monk: Added Nature-type.
+  - Stellar Vagrant: Added Darkness-type.
+  - The Unforgiving: Rebalanced to make him a LOT more destructive, expensive, and almost unkillable.
+  - Volt Splitter: Buffed ability to allow Reactions and Normal Attacks, but only allowed to target up to 2 extra Characters.
+  - Abyssal Orb: HP Lowered to 3.
+  - Archangel's Blade: Increased TP Cost to 12, force-KO's a Character now.
+  - Army Sigil: Renamed "Arm To The Teeth", removed power increase. Hyper Rank now.
+  - Combo Chakram: Made Uncommon.
+  - Cybernetic Implants: Renamed "Cyborg Implants", added Poison Immune.
+  - DCA-5 'Bastion': Lowered HP to 1.
+  - Devolving Slime: Nerfed, no longer Rifts on Contingency.
+  - Dreadforge Arsenal: Reworked to no longer be an Equip Item and fixed some weirdness with it.
+  - DXS-00 'Ghostwidow': Deals Relentless Attacks if the user has Ghost Counters. Also grants 2 Ghost Counters.
+  - Eldritch Gateway: Removed self-charge.
+  - EMP Grenade: Reworded/Renamed slightly.
+  - Flare Missile: Renamed from "Flame Jar".
+  - Gravity Snare: Reworded heavily.
+  - Infinity Clip: Renamed from "Infinity Clips", increased cost and rarity.
+  - Level Up!: Made more clear and removed Flash gain.
+  - Master Charge Device: Renamed from "Master Control", increased cost and usability.
+  - Master's Sai: Rebalanced.
+  - Mind Eraser: Renamed from "Mind Blight", rebalanced/reworded.
+  - Nuclear Radiation: Renamed from "Nuclear Quarantine".
+  - Optical Flash Grenade: Renamed from "Oblivion Flashbang".
+  - Plasma Batteries: Rebalanced.
+  - Prize Pistol: On Successful Attack upgraded to On Attack, lost PLV gain, made Common.
+  - Rally Drum: Rebalanced.
+  - Sonar Grenade: Renamed from "Sonar Charge", reworked into a normal Item instead of an Equip Item.
+  - Scrying Shotgun: Renamed from "Spinner Shotgun", reworded/rebalanced.
+  - Supression Baton: Reworded/nerfed.
+  - Utility Belt: Completely reworked to be better and more clear.
+  - Abyssal Fortification: Reworked to restore cards instead of destroy cards.
+  - Beam Sword Buster: Minor rename, Negate changed to Deflect, removed Blindness.
+  - Book It: Made more useful.
+  - Confound: Made it so only the attacker can discard 2 cards to negate it.
+  - Dissolving Venom: Renamed from "Dissolve in Venom", heavily nerfed damage output.
+  - Perfect Guard: Renamed from "Flesh to Iron", reworked entirely.
+  - Flushing Whirlpool: Renamed from "Flush Away", no longer works with just face-down cards.
+  - Improv Session: Relatively decent buff, made Ultra Rare.
+  - Momentum Cancel: Renamed from "Kinetic Cancel", forces Combo Potential to 0 until end of turn.
+  - Pain Resonance: Increased cost, decreased card destruction effects, made more clear.
+  - Power Hijack: Rebalanced to remove Power Counters from other cards. This is a buff.
+  - Pressure Spray: Added Metal-type, nerfed a bit.
+  - Purgatory: Rebalanced to make a lot more threatening to Mystify cards.
+  - Purity Restore: Renamed from "Purity Guard", now grants Willpower.
+  - Explosive Push: Renamed from "Push Through", made more useful.
+  - Repulsor Strike: No longer deals Concussion.
+  - Thorn Barrier: Made more useful.
+  - Air Shot: Reworded slightly, removed Fire-type.
+  - Aquaforge: Rebalanced.
+  - Astral Infusion: Complete rework, gives Void to a bunch of Item and Augment cards.
+  - Blood Slash: Effect worded slightly differently.
+  - Branch Barrage: Made more effective, but might work weird. We'll see.
+  - Branching Strike: Reworded slightly.
+  - Branding Palm: Reworked to deal Relentless damage in the next attack to a specific card instead of granting the user unblockable attacks.
+  - Double Shell Bomber: Renamed from "Double Bomber", reduced cost and damage output, removed Fire-type.
+  - Dragon Barrage: Added Light-type, rebalanced damage and cost.
+  - Frost Trap: Reworded heavily to make more clear and potentially more useful. Made Super Rare.
+  - Beyonder's Gaze: Renamed from "Gaze Of The Beyond", lowered TP Cost drastically, made Ultra Rank.
+  - Genesis Mode: Made extremely risky and more excessive. Made Omega Rare.
+  - Hurricane Axe Kick: Deals Paralyze instead of Fracture, higher TP Cost and rebalanced damage.
+  - Variable Thunder: Replaces "Imbue With Light" as a new card.
+  - Ion Discharge: Renamed from "Ionizing Discharge", reworded heavily.
+  - Junk Toss: Damage rebalanced, reworded a bit.
+  - Leeching Blow: Added Darkness-type, cost and damage upped a bit.
+  - Molten Spray: Added Earth-type, damage rebalanced.
+  - Mud Trap: Deals more damage, reworded to be clearer, made Super Rare.
+  - Bloodbath Trap: Renamed from "Murderous Trap", reworded to be clearer. Made Super Rare.
+  - Penance Trap: The Knocked Out Character check works during the same turn instead of waiting now. Damage also increased. Made Super Rare.
+  - Recharging Strike: Split the damage between two enemies and slightly lowered it, but you can charge any card you control. Mostly a nerf.
+  - Everlasting Rend: Renamed from "Rend to Pieces", made it not require attacking, made Ultra Rare.
+  - Rite of Reclamation: Renamed from "Rites of Reclamation", made cheaper and less broken.
+  - Sawblade Trap: Rebalanced, made Super Rare.
+  - Shocking Trap: Rebalanced, made Super Rare, mostly buffed.
+  - Sparking Divekick: Renamed from "Sparking Drill Kick", deals Stun instead of Drain now.
+  - Statis Trap: Made Super Rare, reworked effects.
+  - Treeroot Trap: Renamed from "Strangling Trap", effect completely reworked to utilize card manipulation.
+  - Explosive Trap: Renamed from "Sulfurous Trap", now sends enemy to Reserve Zone on Contingency.
+  - Treacherous Blade: Made Equip Item check just an Item check.
+  - Wormhole Trap: Effect reworked into card manipulation.
+  - Magnum Shotgun: Renamed from "Zero Gauge Shotgun", made Uncommon.
 
 << Posted on June 27, 2018 >>
 - Went through a major Card Template redesign!
