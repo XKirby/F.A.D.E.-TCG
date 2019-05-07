@@ -5,6 +5,7 @@
 	<set>EOE</set>
 	<set>GMT</set>
 	<set>LNL</set>
+	<set>VIC</set>
 </format>
 
 </formatdefinitions>
