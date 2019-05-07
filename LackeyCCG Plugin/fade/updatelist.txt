@@ -14,7 +14,7 @@ plugins/fade/images/counteryellow.png	https://raw.githubusercontent.com/XKirby/F
 plugins/fade/sets/fadesetEOE.txt	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/sets/fadesetEOE.txt	3977123
 plugins/fade/sets/fadesetGMT.txt	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/sets/fadesetGMT.txt	5146385
 plugins/fade/sets/fadesetLNL.txt	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/sets/fadesetLNL.txt	4565020
-plugins/fade/sets/fadesetVIC.txt	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/sets/fadesetVIC.txt	5092346
+plugins/fade/sets/fadesetVIC.txt	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/sets/fadesetVIC.txt	5093658
 plugins/fade/sets/setimages/general/cardback.png	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/sets/setimages/general/cardback.png	-88556
 CardGeneralURLs:
 https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/sets/setimages/cards
