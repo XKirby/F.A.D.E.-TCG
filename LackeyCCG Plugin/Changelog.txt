@@ -1,3 +1,10 @@
+<< Posted on May 17, 2019 >>
+Added a new keyword, and boy is it a big one for such a generic effect.
+  - Catalyst
+Updated the MSE Template so that Deck Text Exports from Lackey work with TTS.
+  - This should be relatively painless now and also makes my deck builder, as well as the Decker build, obsolete.
+Updated the LackeyCCG Plugin to reflect the MSE Template changes.
+
 << Posted on May 7, 2019 >>
 Added Set VIC - Victory Combination back in!
   - This set was majorly reworked, basically into a fully new set!
