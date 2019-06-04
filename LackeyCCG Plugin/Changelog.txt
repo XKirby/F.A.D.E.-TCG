@@ -1,3 +1,13 @@
+<< Posted on June 3, 2019 >>
+Minor Card Balancing and Fixing.
+  - Mostly a lot of typo fixing and rewording. I did rebalance some stuff to make more sense though.
+  - There's a bit more I have to do here, but it should all at least make sense now.
+Added a couple of line art illustrations.
+Added a couple of untested "theme" decks to the LackeyCCG Plugin.
+  - They follow a single element archtype, or at least try to.
+Removed the special version of Decker and that GameMaker Deck Editor thing I made.
+  - They aren't necessary anymore.
+
 << Posted on May 17, 2019 >>
 Added a new keyword, and boy is it a big one for such a generic effect.
   - Catalyst

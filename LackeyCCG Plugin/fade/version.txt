@@ -1,7 +1,7 @@
 <version>
-	<lastupdateYYMMDD>190517</lastupdateYYMMDD>
+	<lastupdateYYMMDD>190603</lastupdateYYMMDD>
 	<quality>MEDIUM</quality>
 	<versionurl>https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/version.txt</versionurl>
 	<updateurl>https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/updatelist.txt</updateurl>
-	<message>Minor update to allow Lackey Deck Text Files to work with the TTS Table I'm making.</message>
+	<message>Added some theme decks and did some typo fixing.</message>
 </version>
