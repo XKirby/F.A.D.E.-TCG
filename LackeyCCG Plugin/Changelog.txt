@@ -1,3 +1,13 @@
+<< Posted on July 5, 2019 >>
+Added a new Theme Deck, Dimension Dive!
+Fixed a bug in the LackeyCCG plugin regarding "Generation" format search filters.
+  - It was missing set WLH (whoops).
+
+<< Posted on June 17, 2019 >>
+Added Set WLH - World of Lost Heroes back in!
+  - This completes Generation 1, but obviously there's plenty of room for improvement!
+  - This set was also majorly reworked, most of the cards were cut out due to just being weirdly designed or inherently bad.
+
 << Posted on June 3, 2019 >>
 Minor Card Balancing and Fixing.
   - Mostly a lot of typo fixing and rewording. I did rebalance some stuff to make more sense though.

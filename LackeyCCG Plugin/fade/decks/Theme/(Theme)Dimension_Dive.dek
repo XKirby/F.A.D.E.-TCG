@@ -1,0 +1,84 @@
+<deck version="0.8">
+	<meta>
+		<game>fade</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="LNL-057.png">Dreadforge Arsenal LNL 57</name><set>LNL</set></card>
+		<card><name id="LNL-057.png">Dreadforge Arsenal LNL 57</name><set>LNL</set></card>
+		<card><name id="LNL-057.png">Dreadforge Arsenal LNL 57</name><set>LNL</set></card>
+		<card><name id="LNL-057.png">Dreadforge Arsenal LNL 57</name><set>LNL</set></card>
+		<card><name id="VIC-011.png">Item Smelter VIC 11</name><set>VIC</set></card>
+		<card><name id="VIC-011.png">Item Smelter VIC 11</name><set>VIC</set></card>
+		<card><name id="LNL-049.png">Combo Chakram LNL 49</name><set>LNL</set></card>
+		<card><name id="LNL-049.png">Combo Chakram LNL 49</name><set>LNL</set></card>
+		<card><name id="LNL-049.png">Combo Chakram LNL 49</name><set>LNL</set></card>
+		<card><name id="GMT-066.png">Blade of Kings GMT 66</name><set>GMT</set></card>
+		<card><name id="GMT-066.png">Blade of Kings GMT 66</name><set>GMT</set></card>
+		<card><name id="GMT-066.png">Blade of Kings GMT 66</name><set>GMT</set></card>
+		<card><name id="GMT-066.png">Blade of Kings GMT 66</name><set>GMT</set></card>
+		<card><name id="LNL-038.png">Abyssal Orb LNL 38</name><set>LNL</set></card>
+		<card><name id="LNL-038.png">Abyssal Orb LNL 38</name><set>LNL</set></card>
+		<card><name id="LNL-038.png">Abyssal Orb LNL 38</name><set>LNL</set></card>
+		<card><name id="LNL-038.png">Abyssal Orb LNL 38</name><set>LNL</set></card>
+		<card><name id="EOE-060.png">Voidtouched Gauntlet EOE 60</name><set>EOE</set></card>
+		<card><name id="EOE-060.png">Voidtouched Gauntlet EOE 60</name><set>EOE</set></card>
+		<card><name id="EOE-060.png">Voidtouched Gauntlet EOE 60</name><set>EOE</set></card>
+		<card><name id="EOE-060.png">Voidtouched Gauntlet EOE 60</name><set>EOE</set></card>
+		<card><name id="LNL-050.png">Continuum Potion LNL 50</name><set>LNL</set></card>
+		<card><name id="LNL-050.png">Continuum Potion LNL 50</name><set>LNL</set></card>
+		<card><name id="LNL-050.png">Continuum Potion LNL 50</name><set>LNL</set></card>
+		<card><name id="LNL-050.png">Continuum Potion LNL 50</name><set>LNL</set></card>
+		<card><name id="VIC-078.png">Power Potion VIC 78</name><set>VIC</set></card>
+		<card><name id="EOE-008.png">Gift of Steel EOE 8</name><set>EOE</set></card>
+		<card><name id="EOE-008.png">Gift of Steel EOE 8</name><set>EOE</set></card>
+		<card><name id="EOE-008.png">Gift of Steel EOE 8</name><set>EOE</set></card>
+		<card><name id="EOE-008.png">Gift of Steel EOE 8</name><set>EOE</set></card>
+		<card><name id="EOE-010.png">Gift of the Nebula EOE 10</name><set>EOE</set></card>
+		<card><name id="EOE-010.png">Gift of the Nebula EOE 10</name><set>EOE</set></card>
+		<card><name id="EOE-010.png">Gift of the Nebula EOE 10</name><set>EOE</set></card>
+		<card><name id="EOE-010.png">Gift of the Nebula EOE 10</name><set>EOE</set></card>
+		<card><name id="EOE-157.png">Void Axe EOE 157</name><set>EOE</set></card>
+		<card><name id="EOE-157.png">Void Axe EOE 157</name><set>EOE</set></card>
+		<card><name id="EOE-157.png">Void Axe EOE 157</name><set>EOE</set></card>
+		<card><name id="EOE-157.png">Void Axe EOE 157</name><set>EOE</set></card>
+		<card><name id="GMT-073.png">Ice Grenade GMT 73</name><set>GMT</set></card>
+		<card><name id="GMT-073.png">Ice Grenade GMT 73</name><set>GMT</set></card>
+		<card><name id="GMT-020.png">Steel Cage GMT 20</name><set>GMT</set></card>
+		<card><name id="GMT-020.png">Steel Cage GMT 20</name><set>GMT</set></card>
+		<card><name id="GMT-020.png">Steel Cage GMT 20</name><set>GMT</set></card>
+		<card><name id="GMT-020.png">Steel Cage GMT 20</name><set>GMT</set></card>
+		<card><name id="GMT-103.png">Indestructable Skin GMT 103</name><set>GMT</set></card>
+		<card><name id="GMT-103.png">Indestructable Skin GMT 103</name><set>GMT</set></card>
+		<card><name id="EOE-077.png">Gear Overdrive EOE 77</name><set>EOE</set></card>
+		<card><name id="EOE-077.png">Gear Overdrive EOE 77</name><set>EOE</set></card>
+		<card><name id="VIC-093.png">Densenium Shield VIC 93</name><set>VIC</set></card>
+		<card><name id="VIC-093.png">Densenium Shield VIC 93</name><set>VIC</set></card>
+		<card><name id="VIC-110.png">Psychokinetic Revive VIC 110</name><set>VIC</set></card>
+		<card><name id="VIC-110.png">Psychokinetic Revive VIC 110</name><set>VIC</set></card>
+		<card><name id="VIC-100.png">Legendary Volley VIC 100</name><set>VIC</set></card>
+		<card><name id="VIC-100.png">Legendary Volley VIC 100</name><set>VIC</set></card>
+		<card><name id="GMT-181.png">Starforge Slam GMT 181</name><set>GMT</set></card>
+		<card><name id="GMT-181.png">Starforge Slam GMT 181</name><set>GMT</set></card>
+		<card><name id="GMT-165.png">Orbital Bombardment GMT 165</name><set>GMT</set></card>
+		<card><name id="GMT-165.png">Orbital Bombardment GMT 165</name><set>GMT</set></card>
+		<card><name id="VIC-138.png">Cosmic Uppercut VIC 138</name><set>VIC</set></card>
+		<card><name id="VIC-138.png">Cosmic Uppercut VIC 138</name><set>VIC</set></card>
+	</superzone>
+	<superzone name="Fighter Pool">
+		<card><name id="GMT-032.png">Baron Ludevic GMT 32</name><set>GMT</set></card>
+		<card><name id="GMT-032.png">Baron Ludevic GMT 32</name><set>GMT</set></card>
+		<card><name id="GMT-032.png">Baron Ludevic GMT 32</name><set>GMT</set></card>
+		<card><name id="GMT-032.png">Baron Ludevic GMT 32</name><set>GMT</set></card>
+		<card><name id="GMT-033.png">Captain Meteor GMT 33</name><set>GMT</set></card>
+		<card><name id="GMT-033.png">Captain Meteor GMT 33</name><set>GMT</set></card>
+		<card><name id="GMT-033.png">Captain Meteor GMT 33</name><set>GMT</set></card>
+		<card><name id="GMT-033.png">Captain Meteor GMT 33</name><set>GMT</set></card>
+		<card><name id="GMT-047.png">Ludevic, Soul of Silence GMT 47</name><set>GMT</set></card>
+		<card><name id="GMT-047.png">Ludevic, Soul of Silence GMT 47</name><set>GMT</set></card>
+		<card><name id="GMT-052.png">Meteor, Soul of the Stars GMT 52</name><set>GMT</set></card>
+		<card><name id="GMT-052.png">Meteor, Soul of the Stars GMT 52</name><set>GMT</set></card>
+	</superzone>
+	<superzone name="World Rule">
+		<card><name id="WLH-065.png">Gigantic Power WLH 65</name><set>WLH</set></card>
+	</superzone>
+</deck>

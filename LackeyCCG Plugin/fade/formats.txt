@@ -6,6 +6,7 @@
 	<set>GMT</set>
 	<set>LNL</set>
 	<set>VIC</set>
+	<set>WLH</set>
 </format>
 
 </formatdefinitions>

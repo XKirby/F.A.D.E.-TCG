@@ -1,6 +1,6 @@
-fade	06-17-19
+fade	07-05-19
 plugins/fade/plugininfo.txt	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/plugininfo.txt	734029
-plugins/fade/formats.txt	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/formats.txt	12739
+plugins/fade/formats.txt	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/formats.txt	13938
 plugins/fade/rulebook.pdf	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/rulebook.pdf	967467
 plugins/fade/images/counterblack.png	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/images/counterblack.png	4346
 plugins/fade/images/counterblue.png	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/images/counterblue.png	-2283
@@ -19,5 +19,6 @@ plugins/fade/sets/fadesetWLH.txt	https://raw.githubusercontent.com/XKirby/F.A.D.
 plugins/fade/sets/setimages/general/cardback.png	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/sets/setimages/general/cardback.png	-88556
 plugins/fade/decks/Theme/(Theme)Rays_of_Virtue.dek	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/decks/Theme/(Theme)Rays_of_Virtue.dek	487961
 plugins/fade/decks/Theme/(Theme)Terra_Force.dek	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/decks/Theme/(Theme)Terra_Force.dek	491350
+plugins/fade/decks/Theme/(Theme)Dimension_Dive.dek	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/decks/Theme/(Theme)Dimension_Dive.dek	485838
 CardGeneralURLs:
 https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/sets/setimages/cards
