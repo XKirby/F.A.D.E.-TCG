@@ -342,7 +342,7 @@
 	<packtitle>Generation 1 Draft Box</packtitle>
 	<packkind>Booster</packkind>
 	<packcommoncrit><field>Rarity</field><eval>DOESNTCONTAIN</eval><data>Omega</data></packcommoncrit>
-	<packcommoncrit><field>Description</field><eval>DOESNTCONTAIN</eval><data>Mythical \>\></data></packcommoncrit>
+	<packcommoncrit><field>Description</field><eval>DOESNTCONTAIN</eval><data>Mythical >></data></packcommoncrit>
 	<chance>
 		<prob>100</prob>
 		<kind>
