@@ -1,3 +1,9 @@
+<< Posted on August 21, 2019 >>
+Updated LackeyCCG Plugin
+  - Added Booster Packs! Includes packs for each seperate set as well as a Generation 1 Draft Box.
+  - Updated the card data and images to match the TTS setup.
+  - Updated the rulebook.
+
 << Posted on August 17, 2019 >>
 Updated PDF to look nicer and sorted/resized data to be more legible.
 

@@ -1,7 +1,7 @@
 <version>
-	<lastupdateYYMMDD>190705</lastupdateYYMMDD>
+	<lastupdateYYMMDD>190821</lastupdateYYMMDD>
 	<quality>MEDIUM</quality>
 	<versionurl>https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/version.txt</versionurl>
 	<updateurl>https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/updatelist.txt</updateurl>
-	<message>Added a new Theme Deck, Dimension Dive!</message>
+	<message>Check the changelog!</message>
 </version>
