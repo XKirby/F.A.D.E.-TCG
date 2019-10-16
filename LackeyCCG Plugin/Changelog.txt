@@ -1,3 +1,13 @@
+<< Posted on October 16, 2019 >>
+Reworked most Reactions to include the user as the required target.
+Arena Augments now use a new Arena Zone.
+Updated the rulebook to clarify some things and added 2 new card types!
+  - Zone cards utilize new "Extra Zones"!
+  - Command cards work like Synchronize used to. Synchronize has now been rewritten slightly to make cards that use it grant the Command Supertype.
+  - Both cards don't have Ranks or Levels and have very different costs than normal.
+The card template was updated to utilize the new changes.
+Updated both the LackeyCCG Plugin and Tabletop Simulator Table.
+
 << Posted on September 12, 2019 >>
 Added a "No Art" Template to the MSE Installer.
   - This is mostly meant for cards that need a lot of words on them.
