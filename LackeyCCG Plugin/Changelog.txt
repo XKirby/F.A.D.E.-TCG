@@ -1,3 +1,9 @@
+<< Posted on November 3, 2019 >>
+Fixed rules related to Synchronize and Command Cards slightly again.
+  - Most cards that currently have Synchronize no longer disable cards and work as intended now.
+  - Command Cards and cards with Synchronize now specify that they don't remove Command Materials from the field by default.
+Fixed Elemental Mastery, just to make sure it was coherent.
+
 << Posted on October 16, 2019 >>
 Reworked most Reactions to include the user as the required target.
 Arena Augments now use a new Arena Zone.
