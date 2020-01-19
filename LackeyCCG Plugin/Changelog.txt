@@ -1,3 +1,10 @@
+<< Posted on January 19, 2020 >>
+Did a massive update to the MSE Templates, allowing for multiple Card Backs to merge together.
+  - This allows multiple Supertypes to be on the same card!
+  - Synchronize now works differently due to these changes.
+Updated the LackeyCCG Plugin.
+  - It's gonna take a while to update the Tabletop Simulator table. I might also get rid of the Shadered cards, not sure yet.
+
 << Posted on November 3, 2019 >>
 Fixed rules related to Synchronize and Command Cards slightly again.
   - Most cards that currently have Synchronize no longer disable cards and work as intended now.
