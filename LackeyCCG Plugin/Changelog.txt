@@ -1,3 +1,13 @@
+<< Posted on January 22, 2020 >>
+Minor template graphical updates.
+  - There's now a socket for the Elements to sit it and TP and CS Cost symbols instead of using just text.
+  - Updated the rulebook to include the new TP and CS Cost symbols.
+  - If a card is the Character Supertype, it's required to have a CS Cost. Keep this in mind.
+Updated LackeyCCG Plugin
+  - Removed outdated theme decks. They were broken anyway.
+Slightly updated Set WLH (World of Lost Heroes).
+  - It now has 89 cards. It's still WIP.
+
 << Posted on January 19, 2020 >>
 Did a massive update to the MSE Templates, allowing for multiple Card Backs to merge together.
   - This allows multiple Supertypes to be on the same card!
