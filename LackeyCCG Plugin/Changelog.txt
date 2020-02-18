@@ -1,3 +1,15 @@
+<< Posted on February 18, 2020 >>
+Rulebook Updated a bit.
+  - Removed Element Matching.
+	- Wildcard now just gives you all Elements, including Null-Type.
+  - Added the Raider Keyword and details on how Raiders work in the updated "World Rules and Raiders" section.
+  - Removed the "Combo Potential" section and the Combo Keyword.
+	- Normal Attacks are still once per turn, but cards are no longer limited in the same way.
+Cards Updated a bit.
+  - Removed everything related to Element Matching and Combos.
+  - Fixed some keyword typos.
+Updated LackeyCCG Plugin.
+
 << Posted on January 22, 2020 >>
 Minor template graphical updates.
   - There's now a socket for the Elements to sit it and TP and CS Cost symbols instead of using just text.
