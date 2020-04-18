@@ -1,3 +1,29 @@
+<< Posted on April 17, 2020 >>
+Major Ruleset update!
+  - Keyword Changes
+    - Removed the following Keywords: Ghost, Willpower, Stun, Element-Lock
+    - Updated the following Keywords: Poison, Timebomb, Effect Immune, Tag Out, Element Mastery, Drain, Unblockable
+    - Added the following Keywords: Barrier
+	- Various other wording changes were done as well.
+  - Stat Changes
+    - Removed the following Stats: DEF, AGI
+	- Character Slots -> Character Space
+  - Rule Changes
+    - Items and Augments
+	  - "Item - Equip" must now be classified as "Item Augment - Equip" internally. Equip Items no longer exist.
+	  - Augments no longer grant their Base Stats to Characters or Players, instead functioning like Equip Items used to.
+	    - Augments can still have an HP Value, but are destroyed once their HP drops to 0 via received damage.
+	  - Augments can no longer extend a Chain.
+	- Knock Outs and Hit Count Overflow
+	  - Having more hits than your targets can take no longer allows you to select new targets for those hits.
+	- Various old reference and typo fixes.
+Major Template update!
+  - Keywords updated to reflect rulebook changes.
+    - Also, I cleaned up the code on how they work to be less clashy. This unfortunately made them less user-friendly.
+  - Stats updated to reflect rulebook changes.
+    - DEF and AGI are still *there*, but not used visually.
+Cards are in the process of being updated.
+
 << Posted on February 18, 2020 >>
 Rulebook Updated a bit.
   - Removed Element Matching.
