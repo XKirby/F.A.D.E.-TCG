@@ -1,3 +1,14 @@
+<< Posted on May 20, 2020 >>
+Updated Keywords slightly.
+  - Arena now allows all Players to have a card in their Arena Zone at once.
+  - Aura now refers to Damage Counters.
+  - Barrier can no longer Negate Attacks.
+    - Added the "Shield" Keyword, which can only Negate Attacks. Both of these are counters anyway, so whatever.
+Updated Items and Augments with HP so that they receive damage equal to their user unless otherwise stated.
+  - Also, removed the "Equip" Subtype. It was unnecessary.
+Massive card rebalance update to take into account most of this and the previous update's changes.
+  - Removed all of the Shadered cards, they were just unnecessary bloat.
+
 << Posted on April 17, 2020 >>
 Major Ruleset update!
   - Keyword Changes

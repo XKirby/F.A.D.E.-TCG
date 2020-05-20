@@ -1,7 +1,7 @@
 <formatdefinitions>
 
 <format>
-	<label>Generation 1</label>
+	<label>Generation 000</label>
 	<set>EOE</set>
 	<set>GMT</set>
 	<set>LNL</set>

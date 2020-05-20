@@ -21,7 +21,7 @@
 	</deckzone>
 
 	<deckzone>
-		<label>World Rule</label>
+		<label>Extra</label>
 		<shuffle>yes</shuffle>
 		<zonetoloadto>4</zonetoloadto>
 	</deckzone>
@@ -41,7 +41,7 @@
 	</gamezone>
 
 	<gamezone>
-		<label>World Rule</label>
+		<label>Extra</label>
 		<visibletoowner>yes</visibletoowner>
 		<visibletoothers>yes</visibletoothers>
 	</gamezone>
