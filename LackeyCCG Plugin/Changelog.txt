@@ -1,3 +1,20 @@
+<< Posted on June 26, 2020 >>
+Updated Illustrations
+  - Set EOE: Engine Heart
+Fixed some card typos
+  - Set EOE
+Updated Tabletop Simulator Table
+  - Removed the Draft and Deckbuilder Infinite Bags in favor of Deckboxes and scripted Booster Packs.
+    - This prevents the cards from being loaded immediately and also simulates Booster Pulls more realistically.
+  - Updated Counters.
+    - Removed Ghost, Added Shield and Barrier.
+Updated LackeyCCG Plugin
+  - Removed most Counters. With the latest additions, there are too many of them.
+  - Fixed some formatting in the plugininfo.txt.
+  - Updated Booster Pack Definitions.
+    - Removed the Draft Box definition.
+	- The Pack Definitions now match the newly added Tabletop Simulator Booster Packs.
+
 << Posted on May 20, 2020 >>
 Updated Keywords slightly.
   - Arena now allows all Players to have a card in their Arena Zone at once.
