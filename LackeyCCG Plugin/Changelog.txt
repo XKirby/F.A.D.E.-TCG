@@ -1,3 +1,25 @@
+<< Posted on August 16, 2020 >>
+Updated Templates
+  - Added a Symbol Font
+    - Includes symbols for Elements, Counters, and Base Stats
+  - Removed CS symbol
+  - Added Null-type Symbol
+Updated Rulebook
+  - Reserve Zone renamed to Backup Zone
+    - Rules related to the Reserve Zone have changed drastically
+  - Added all new symbols for Counters
+  - Removed CS as a resource
+    - Replaced with TP
+  - Lowered TP Gain during the Starting Phase
+  - Removed the Arena subtype and fixed Arena being tied specifically to Augments in most cases.
+  - Added various symbols related to the Symbol Font, including the new Null-type Symbol
+Massive Card Update
+  - Most cards use the new symbol font
+  - Keywords and their descriptions don't use the symbol font
+	- This is intentional and also an issue with Magic Set Editor in general
+  - Some cards were reworked, most cards were just tweaked slightly, and a few cards were outright removed due to rule changes
+  - Some Full-Art cards were altered to not be Full-Art, I'll be making Full-Art variants for them later.
+
 << Posted on June 26, 2020 >>
 Updated Illustrations
   - Set EOE: Engine Heart
