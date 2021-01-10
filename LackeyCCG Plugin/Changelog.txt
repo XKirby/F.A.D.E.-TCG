@@ -1,3 +1,12 @@
+<< Posted on January 9, 2021 >>
+Updated Templates
+  - Increased Set Code Font Size
+  - Cleaned up some minor issues when using it with an updated version of MSE.
+Removed TTSMod Table Backup from the Github.
+  - It was 100MB of space I could use some other way.
+Fixed a few card typos/errors.
+Fixed a few rulebook typos/errors.
+
 << Posted on August 16, 2020 >>
 Updated Templates
   - Added a Symbol Font
