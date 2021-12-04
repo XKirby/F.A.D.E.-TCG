@@ -3,4 +3,6 @@ F.A.D.E. (Fighter's Arena, Destructive Encounters) is a Trading Card Game based 
 
 Everything you see here can be used to play the game via Tabletop Simulator or LackeyCCG, and you can even make your own cards with the Templates I've provided. I'll be keeping this page up-to-date with my own personal sets of cards for everyone to enjoy playing the game.
 
-The templates, name of the game, and imagery/illustration work used were mostly self-designed, barring some exceptions in the form of commission work and/or code examples. You may not print these out yourself, sell them, or distribute them outside of using this Github page. If you make your own cards, you're free to distribute them and play with them, but you cannot sell them for any form of profit.
+The templates are useable with Magic Set Editor 2.1.2 which can be found here: https://github.com/twanvl/MagicSetEditor2
+
+The templates, name of the game, and imagery/illustration work used were mostly self-designed, barring some exceptions in the form of commission work and/or code examples. If you make your own cards, you must not sell them and you must cite your source materials. Otherwise, feel free to distribute them however you wish.
