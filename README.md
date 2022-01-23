@@ -1,7 +1,5 @@
 # F.A.D.E.-TCG
-F.A.D.E. (Fighter's Arena, Destructive Encounters) is a Trading Card Game based on the concepts found in fighters, beat-em-ups, and shounen anime/manga, as well as my own personal spin on the TCG/CCG genre. It's still a work-in-progress.
-
-Everything you see here can be used to play the game via Tabletop Simulator or LackeyCCG, and you can even make your own cards with the Templates I've provided. I'll be keeping this page up-to-date with my own personal sets of cards for everyone to enjoy playing the game.
+F.A.D.E. (Fighter's Arena, Destructive Encounters) is a Trading Card Game based on some concepts found in fighters, beat-em-ups, and shounen anime/manga, as well as my own personal spin on the TCG/CCG genre. It's still a work-in-progress.
 
 The templates are useable with Magic Set Editor 2.1.2 which can be found here: https://github.com/twanvl/MagicSetEditor2
 
