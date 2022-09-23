@@ -1,12 +1,19 @@
 << LATEST CHANGES >>
 Updated Templates
-  - Changed the fonts to a single Pixel Font.
+  - Changed the fonts to two new fonts, one of them self-made.
   - Made Rank Symbols instead of having to type out the word "Rank" each time.
-  - Reworked Symbol to work in Keyword descriptions.
+  - Reworked Symbols to work in Keyword descriptions.
+  - Reworked old Command card template into new Legend card template.
+  - Reformated main templates to separate gradients from main card design for ease of use.
 Updated Rulebook
   - Added Unblockable and True Damage Types
+  - Added Legend Supertype
+    - Used to be Raider Characters. Meant for Co-op play. More on this later.
+  - Added the following Keywords:
+    - Provoke
+    - Surprise
   - Removed Elemental Damage rules.
-    - Cards can be Elemental. Damage can no longer be Elemental.
+    - Attacks can be Elemental. Damage can no longer be Elemental.
   - Added Card Archetypes
     - Appears in Level/Rank area, used for differentiating cards even further
   - Removed Physical, Energy, and Unknown Damage Types
@@ -14,26 +21,25 @@ Updated Rulebook
   - Removed Command Supertype
   - Removed World Rule Supertype
   - Removed Raider Subtype
-    - This might be temporary. For now, I need to focus on supporting the main game.
   - Removed Trigger Subtype
   - Removed the Prevent Defensive mechanic
     - Was overly complicated and provided no benefit.
   - Removed the Defend Defensive mechanic
     - No longer required, Negate and Block do everything it used to.
   - Removed the following Keywords:
-    - Arena (Zone cards are now used for this)
-	- Affinity
-    - Basic (Moved to Damage Type)
-    - Relentless (replaced with the True Damage Type)
-	- Unblockable (Move to Damage Type)
-	- Synchronize
-	- Affinity
-	- Catalyst
-	- Stock
-	- Raider
-	- Neutrality
-	- Friendship
-	- Trigger (renamed to Surprise)
+    - Arena
+    - Affinity
+    - Basic
+    - Relentless
+    - Unblockable
+    - Synchronize
+    - Affinity
+    - Catalyst
+    - Stock
+    - Raider
+    - Neutrality
+    - Friendship
+    - Trigger
 
 << Posted on January 9, 2021 >>
 Updated Templates
@@ -62,7 +68,7 @@ Updated Rulebook
 Massive Card Update
   - Most cards use the new symbol font
   - Keywords and their descriptions don't use the symbol font
-	- This is intentional and also an issue with Magic Set Editor in general
+    - This is intentional and also an issue with Magic Set Editor in general
   - Some cards were reworked, most cards were just tweaked slightly, and a few cards were outright removed due to rule changes
   - Some Full-Art cards were altered to not be Full-Art, I'll be making Full-Art variants for them later.
 
@@ -81,7 +87,7 @@ Updated LackeyCCG Plugin
   - Fixed some formatting in the plugininfo.txt.
   - Updated Booster Pack Definitions.
     - Removed the Draft Box definition.
-	- The Pack Definitions now match the newly added Tabletop Simulator Booster Packs.
+    - The Pack Definitions now match the newly added Tabletop Simulator Booster Packs.
 
 << Posted on May 20, 2020 >>
 Updated Keywords slightly.
@@ -100,19 +106,19 @@ Major Ruleset update!
     - Removed the following Keywords: Ghost, Willpower, Stun, Element-Lock
     - Updated the following Keywords: Poison, Timebomb, Effect Immune, Tag Out, Element Mastery, Drain, Unblockable
     - Added the following Keywords: Barrier
-	- Various other wording changes were done as well.
+    - Various other wording changes were done as well.
   - Stat Changes
     - Removed the following Stats: DEF, AGI
-	- Character Slots -> Character Space
+    - Character Slots -> Character Space
   - Rule Changes
     - Items and Augments
-	  - "Item - Equip" must now be classified as "Item Augment - Equip" internally. Equip Items no longer exist.
-	  - Augments no longer grant their Base Stats to Characters or Players, instead functioning like Equip Items used to.
-	    - Augments can still have an HP Value, but are destroyed once their HP drops to 0 via received damage.
-	  - Augments can no longer extend a Chain.
-	- Knock Outs and Hit Count Overflow
-	  - Having more hits than your targets can take no longer allows you to select new targets for those hits.
-	- Various old reference and typo fixes.
+      - "Item - Equip" must now be classified as "Item Augment - Equip" internally. Equip Items no longer exist.
+      - Augments no longer grant their Base Stats to Characters or Players, instead functioning like Equip Items used to.
+        - Augments can still have an HP Value, but are destroyed once their HP drops to 0 via received damage.
+      - Augments can no longer extend a Chain.
+    - Knock Outs and Hit Count Overflow
+      - Having more hits than your targets can take no longer allows you to select new targets for those hits.
+    - Various old reference and typo fixes.
 Major Template update!
   - Keywords updated to reflect rulebook changes.
     - Also, I cleaned up the code on how they work to be less clashy. This unfortunately made them less user-friendly.
@@ -123,10 +129,10 @@ Cards are in the process of being updated.
 << Posted on February 18, 2020 >>
 Rulebook Updated a bit.
   - Removed Element Matching.
-	- Wildcard now just gives you all Elements, including Null-Type.
+    - Wildcard now just gives you all Elements, including Null-Type.
   - Added the Raider Keyword and details on how Raiders work in the updated "World Rules and Raiders" section.
   - Removed the "Combo Potential" section and the Combo Keyword.
-	- Normal Attacks are still once per turn, but cards are no longer limited in the same way.
+    - Normal Attacks are still once per turn, but cards are no longer limited in the same way.
 Cards Updated a bit.
   - Removed everything related to Element Matching and Combos.
   - Fixed some keyword typos.
