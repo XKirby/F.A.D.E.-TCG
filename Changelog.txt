@@ -3,12 +3,12 @@ Updated Templates
   - Changed the fonts to two new fonts, one of them self-made.
   - Made Rank Symbols instead of having to type out the word "Rank" each time.
   - Reworked Symbols to work in Keyword descriptions.
-  - Reworked old Command card template into new Legend card template.
+  - Reworked old Zone card template into new Legend card template.
+  - Reworked old Command card template into new Zone card template.
   - Reformated main templates to separate gradients from main card design for ease of use.
 Updated Rulebook
   - Added Unblockable and True Damage Types
-  - Added Legend Supertype
-    - Used to be Raider Characters. Meant for Co-op play. More on this later.
+  - Added Legend Supertype with new Co-op Rules
   - Added the following Keywords:
     - Provoke
     - Surprise
@@ -40,6 +40,8 @@ Updated Rulebook
     - Neutrality
     - Friendship
     - Trigger
+  - Players can now be given Keywords and Counters.
+    - Most cards tend to avoid this currently. Might experiment more with this later.
 
 << Posted on January 9, 2021 >>
 Updated Templates
