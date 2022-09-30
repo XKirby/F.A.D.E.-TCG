@@ -1,3 +1,13 @@
+<< Posted on September 30, 2022 >>
+Card Tweaks
+  - Base Set: Vorpal Warp
+    - The Level comparison check is now the user's Level being lower than the attacker's level as it should've been to begin with.
+  - Base Set: Gamma Storm
+    - There was an additional underscore in the Rank box that was being exported.
+  - Base Set: Ranulf Starigan, Overseer of Talthrim
+    - Shortened the amount of text by removing the accidentally typed-out keyword text for Lock-On. Reworded [3+ Players] ability slightly to compensate.
+Updated LackeyCCG and TTS Card Databases to reflect changed cards.
+
 << Posted on September 29, 2022 >>
 Updated Templates
   - Changed the fonts to two new fonts, one of them self-made.
