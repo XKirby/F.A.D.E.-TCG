@@ -1,0 +1,10 @@
+fade	09-29-22
+plugins/fade/plugininfo.txt	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/plugininfo.txt	477409
+plugins/fade/formats.txt	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/formats.txt	9091
+plugins/fade/rulebook.pdf	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/rulebook.pdf	1512049
+plugins/fade/images/counterred.png	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/images/counterred.png	9590
+plugins/fade/packs/packdefinitions1.xml	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/packs/packdefinitions1.xml	66696
+plugins/fade/sets/BS.txt	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/sets/fadesetEOE.txt	5710028
+plugins/fade/sets/setimages/general/cardback.png	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/sets/setimages/general/cardback.png	-88556
+CardGeneralURLs:
+https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/sets/setimages/cards

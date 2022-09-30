@@ -1,4 +1,4 @@
-<< LATEST CHANGES >>
+<< Posted on September 29, 2022 >>
 Updated Templates
   - Changed the fonts to two new fonts, one of them self-made.
   - Made Rank Symbols instead of having to type out the word "Rank" each time.
@@ -42,6 +42,8 @@ Updated Rulebook
     - Trigger
   - Players can now be given Keywords and Counters.
     - Most cards tend to avoid this currently. Might experiment more with this later.
+Uploaded new Base Set!
+  - Includes LackeyCCG Plugin version and higher-resolution version for Tabletop Simulator.
 
 << Posted on January 9, 2021 >>
 Updated Templates

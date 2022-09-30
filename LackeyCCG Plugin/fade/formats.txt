@@ -1,0 +1,8 @@
+<formatdefinitions>
+
+<format>
+	<label>Generation 1</label>
+	<set>BS</set>
+</format>
+
+</formatdefinitions>
