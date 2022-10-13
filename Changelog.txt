@@ -1,3 +1,31 @@
+<< Posted on October 13, 2022 >>
+Card Tweaks
+  - BS: Aquaforge
+    - Sends cards not taken to the bottom of your deck
+  - Dreadforge Mindlink
+    - Rank lowered to Hyper and can target any Character or Player, but now only has Equip Player, and you can't use multiples of itself as easily as before
+  - BS: Explosive Punch
+    - Swaps two Characters instead of just sending one to the Backup Zone
+  - BS: Galaxy Ray
+    - Slight phrasing adjustment
+  - BS: Gathering Charge
+    - Slight phrasing adjustment
+  - BS: Life Aura
+    - Became BS: Starlight Aura
+      - This rearranges Set Code IDs
+  - BS: Personal Compactor
+    - Lists a Minimum of Level 0 now
+  - BS: Variable Charge
+    - Made Super Rare
+  - Removed Lock-On from non-Character cards
+Added text-only cards for each Legend
+Increased size of card borders for printing through TheGameCrafter
+Reworked some keywords
+  - Buildup
+  - Level-Up
+  - Stacker
+Updated the rulebook
+
 << Posted on September 30, 2022 >>
 Card Tweaks
   - Base Set: Vorpal Warp
