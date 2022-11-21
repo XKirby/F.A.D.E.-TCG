@@ -22,6 +22,7 @@ Card Tweaks
       - Backup no longer costs TP.
       - Major reword on second activated ability.
     - Abyssal Orb
+      - No longer an Item.
       - No longer grants its user Void.
     - Glass Cannon
       - Specifically requires Attack Damage to be destroyed.
@@ -100,6 +101,8 @@ Card Tweaks
       - Forgot to word that it's Basic Damage.
       - Ultra Rank -> Hyper Rank
       - 5 TP -> 4 TP
+    - Dragonfire Scale
+      - Destroys itself now upon using its activated ability.
     - Drowning Tsunami
       - 6 TP -> 7 TP
     - Dynamo Discharge
@@ -160,8 +163,9 @@ Card Tweaks
       - Pallasite
       - Sodalite
     - Crashlanders
-    - Dragonfire Scale
+      - No longer an Item.
     - Loaded Dice
+      - No longer an Item.
     - Solar Panel
     - Tower Shield
     - Void Gauntlet
