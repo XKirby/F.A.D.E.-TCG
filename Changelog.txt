@@ -1,3 +1,221 @@
+<< Posted on November 21, 2022 >>
+Removed the LackeyCCG Plugin again.
+  - LackeyCCG is dead, no reason to support it.
+Added a self-made deck editor.
+  - It's pretty barebones and kind of bad.
+Card Tweaks
+  - Buffs
+    - Ironskin
+      - "At the beginning" instead of "Once per round"
+    - Overpower
+      - "At the beginning" instead of "Once per round"
+    - Animus Spirit Hakkon
+      - "At the beginning" instead of "Once per round"
+      - Poison counters should be worded very clearly now
+    - Baron Ludevic
+      - "At the beginning" instead of "Once per round"
+    - Kreigendyne
+      - Super Rare -> Ultra Rare
+      - 3 maximum Power Counter limit -> No maximum Power Counter limit
+      - "At the beginning" instead of "Once per round"
+    - Seawitch Atholla
+      - Backup no longer costs TP.
+      - Major reword on second activated ability.
+    - Abyssal Orb
+      - No longer grants its user Void.
+    - Glass Cannon
+      - Specifically requires Attack Damage to be destroyed.
+    - Continuum Potion
+      - Can send 4 cards for up to 4 TP again.
+    - Temporal Battery
+      - Gain 1 TP for free, but Discards are 2 cards for 1 TP instead of 1 for 1 now. You can Discard up to 4 cards.
+    - Power Viel
+      - Unspent TP is kept now, unless it was gain by this card specifically (or other cards like this one). TP gained by cards like this is spent last.
+    - Rapid Degradation
+      - Hyper Rank -> Ultra Rank
+    - Shock Trap
+      - Can target Augments with the Power Counter removal now.
+    - Hornetstorm
+      - Poison Counters are now granted based on how many hits are dealt to the target.
+      - Poison total increased from 5 to 8, if the target survives. (4 hits, 2 Poison per hit)
+    - Taunt
+      - 3 TP Drain -> 4 TP Drain
+    - Branching Strike
+      - "At the beginning" instead of "Once per round"
+    - Cresting Wave Kick
+      - 5 TP -> 3 TP
+    - Lyle Rage, The Original Legend
+      - Removed Immune to Drain.
+      - All cards this card controls grant him additional storage of TP, not just Characters, Augments, and Zones.
+      - 2+ Players effect now triggers on each Player's "End of turn" instead of once per round.
+    - Ranulf Starigan, Overseer of Talthrim
+      - "At the beginning" instead of "Once per round" on a few things.
+      - Minor rewording.
+    - Teraton Punch
+      - 4+ Players ability prevents Void altogether.
+  - Nerfs
+    - Doombringer
+      - Lowered from 2 cards to 1 card.
+    - Cosmic Scribe
+      - Limited to holding a maximum of 3 Power Counters.
+      - Minor rewording
+    - Dreadforge Armorer
+      - Barrier Counter: 2 -> 1
+    - Fury Elemental
+      - "At the beginning" instead of "During"
+    - Jungle Dryad
+      - It could give itself Power Counters. Now it can't.
+    - Lars Draigo
+      - Deathmark is now temporary.
+      - Major Rewording
+    - Lunar Mylus
+      - "Once per round" limit on the second activated ability.
+    - Match Gunther
+      - Removed Mastery of Storm.
+    - Energy Coin
+      - Flip Total reduced from 4 to 3.
+    - Trigger Button
+      - Only works with Activated Abilities now.
+    - Flareskin
+      - Deals True Damage instead of directly placing Damage Counters.
+      - Damage: 3 -> 2
+    - Purgatory Flames
+      - No longer negates. I don't think that would've mattered anyway.
+    - Refract
+      - 2 for 2 instead of 2 for 4.
+    - Aquatic Edge
+      - Needs to be successful to perform the draw ability.
+    - Artificial Attack
+      - TP gains are temporary from this card, similar to Power Veil.
+      - Common -> Uncommon
+    - Superpower Aura
+      - 6 TP -> 4 TP
+      - Aura 1 -> Aura 2
+      - Minor rewording
+    - Dendrotoxic Spines
+      - Uncommon -> Rare
+    - Double Magnum
+      - 10 Damage twice -> 6 Damage twice
+      - Completely reworded to account for damage splitting properly.
+      - Forgot to word that it's Basic Damage.
+      - Ultra Rank -> Hyper Rank
+      - 5 TP -> 4 TP
+    - Drowning Tsunami
+      - 6 TP -> 7 TP
+    - Dynamo Discharge
+      - 4 TP -> 6 TP
+    - Exploit Weakness
+      - No longer deals True Damage
+      - Minor rewording
+    - Galaxy Ray
+      - Bottom 4 Rift -> Top 4 Rift
+    - Ironblood Screech
+      - "Next turn's Starting Phase" -> "Next Starting Phase"
+        - Yes, this does matter.
+    - Kelvin Shock
+      - No longer has the ability to target two separate things.
+    - Mud Spike
+      - Special -> Hyper
+      - 2 TP -> 3 TP
+      - Destroy 2 -> Destroy 1
+    - Temporal Fracture
+      - Potential loss in TP now unless you're using Time-type Characters. If you are, expect some gains.
+    - Demon Eye
+      - 3+ Player TP Cost Reduction reduced from 4 to 2.
+  - Rewords
+    - Electron Barrier
+    - Karate Gi
+    - Medic's Touch
+    - Molecular Hyperdrive
+    - Negate Draw
+    - Overclock
+    - Reflective Shield
+    - Serpent's Tongue
+    - Technophobia
+    - Alex Leo
+    - Captain Meteor
+    - Dragonward Warrior
+    - Dreadforge Assassin
+    - Dreadforge Conduit
+    - Dust Elemental
+    - Escalus Kirby
+    - Kronus, Avatar of Eternity
+    - Lilly Poh
+    - Marko Sears
+    - Nebula Slime
+    - Rundo Rondo
+    - Scorchwillow Dryad
+    - Shinesteel Sentinel
+    - Stellar Vagrant
+    - Voodoo Flytrap
+    - Rings
+      - Almadine
+      - Amazonite
+      - Ammonite
+      - Axinite
+      - Citrine
+      - Hematite
+      - Malachite
+      - Melanite
+      - Pallasite
+      - Sodalite
+    - Crashlanders
+    - Dragonfire Scale
+    - Loaded Dice
+    - Solar Panel
+    - Tower Shield
+    - Void Gauntlet
+    - Box of Bandages
+    - Counter Generator
+    - Dreadforge Arsenal
+    - Medical Supply Kit
+    - Stasis Trap
+    - War Cry
+    - Stutter Step
+    - Summon Recall
+      - Now sends to their owner's Fighter Pool, as intended from the start.
+    - Temporal Freeze
+    - Asp Strike
+    - Blood Edge
+    - Bonecracking Punch
+    - Catapult Kick
+      - Reworked to force a complete switch between Character and Backup Zones, even if there's only 1 Character controlled by your opponent.
+    - Grit of the Wild
+    - Holy Brand
+    - Infernal Blast
+    - Light Barrier
+    - Mach 10
+    - Regrowth
+    - Rising Dragon Fist
+    - Spacial Relocation
+    - Back Alley
+    - Coliseum of Heroes
+    - Death Zone
+    - Deep Sea Fissure
+    - Hellrealm Dimension
+    - Imminent Meteor
+    - Redwood Maze
+    - Treatment Facility
+    - Kyle Rage, Demonic Overlord
+    - Thoughts of Blasphemy
+    - Galactic Aura
+    - Luck Streak
+Updated Template
+  - Keyword Adjustments
+    - Removed Mystify
+    - Updated Shield
+Updated Rulebook
+  - Keyword Adjustments
+    - Mystify
+      - Removed. It went unused. It wasn't a good keyword anyway.
+    - Shield
+      - Only Blocks Attacks instead of Negating them now. THAT was an oversight.
+  - Other Stuff
+    - Imprison exists now, which means there's a Rift Zone counterpart to Destroy.
+    - Knock Out and Destroy were given a bit more detail at the start of the book.
+    - Combat Zone Order given more detail.
+    - The Last Stand given more detail.
+
 << Posted on October 13, 2022 >>
 Card Tweaks
   - BS: Aquaforge
