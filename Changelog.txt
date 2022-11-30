@@ -1,3 +1,156 @@
+<< Posted on November 29, 2022 >>
+Card Tweaks
+  - Aura Vision
+    - Reworded to use Keyword Text.
+  - Commander's Whistle
+    - Reworded slightly.
+  - Cybernetic Implants
+    - Reworded to use Keyword Text.
+  - Electron Barrier
+    - Simplified text heavily.
+  - Junk Cycler
+    - Reworded to actually be an activated ability.
+  - Overclock
+    - Removed Power Counter maximum limit.
+  - Personal Compactor
+    - Reworded slightly.
+  - Baron Ludevic
+    - Reworded slightly.
+  - Dreadforge Armorer
+    - Reworded slightly.
+  - Dreadforge Assassin
+    - Reworded slightly.
+  - Dreadforge Subjugator
+    - Buffed by changing "reachable opponent Character" to "opponent Character".
+  - Forgemaster
+    - Reworded slightly.
+  - Jungle Dryad
+    - Full rework, made Mythical.
+  - Escalus Kirby
+    - Full rework, funny dice roll card with insane potential.
+  - Lunar Mylus
+    - Full rework, Basic Damage booster
+  - Lyle Rage Form Omega
+    - Removed Power Source and Bloodlust
+    - Gave Mastery of Space
+    - Gave Immune to Attacks of Special Rank or Lower
+  - Lyle Rage Form Sigma
+    - Removed Power Source 1
+    - Buffed Bloodlust to 2
+    - Gave Multistrike 1
+  - Lyle Rage
+    - Power Source 1 -> Flash
+  - Mars the Purifier
+    - Granted an Immune to Darkness for All Knights once-per-round activated ability.
+  - Riley Aero
+    - Reworded.
+    - Activated ability no longer once per round.
+  - Rundo Rondo
+    - Reworded slightly.
+  - Stellar Vagrant
+    - Reworded slightly.
+  - Voltage Elemental
+    - PLV nerfed.
+  - Voodoo Flytrap
+    - Reworded slightly.
+  - Blade of Kings
+    - Works with Level-Up Characters now.
+    - Reorganized.
+  - Solar Panel
+    - Reworded.
+  - Void Gauntlet
+    - Reorganized.
+  - Adrenaline Shot
+    - "Reachable" replaced with "Ally".
+  - Continuum Potion
+    - Reworded.
+  - Dreadforge Arsenal
+    - Reworded.
+  - Tactical Visor
+    - Reworded.
+    - TP Cost 4 -> 2
+  - Trigger Button
+    - Removed Replay.
+    - TP Cost 4 -> 5
+    - Activated ability activation is free.
+  - Variable Sword
+    - Removed Replay and reworded to trigger a new activation that can choose new targets.
+  - Worldcleaver
+    - Destroys ALL Zones on the field now.
+  - Frost Trap
+    - Reworded slightly.
+  - Gamma Storm
+    - Reworded slightly.
+  - Power Veil
+    - Removed a typo.
+  - Shock Trap
+    - Power Counters Removed: 3 -> 9
+  - War Cry
+    - Reworded.
+  - Compress
+    - Reworded slightly.
+  - Explosive Punch
+    - No more Jump-In from the Backup Zone.
+  - Insight Shine
+    - Requirement Draw: 4 -> 3
+    - Healing: 3 -> 5
+  - Power Hijack
+    - Removes half of a card's Power Counters rounded down instead of moving only 3.
+  - Prismatic Blood
+    - Now only usable by Characters.
+  - Rainbow Field
+    - Can now target Players.
+  - Severe Strike
+    - Damage Counters: 5 -> 4
+  - Starlight Aura
+    - Reworded slightly.
+  - Stutter Step
+    - Drain Counters: 2 -> 3
+  - Temporal Freeze
+    - Reworded slightly.
+  - Vorpal Warp
+    - Reworded slightly.
+  - Asp Strike
+    - Can put Poison Counters on Players.
+  - Blood Edge
+    - Can no longer put Curse Counters on Players.
+  - Branching Strike
+    - Removed a typo.
+  - Catapult Kick
+    - No more Jump-In from the Backup Zone.
+  - Cresting Wave Kick
+    - !!MAJOR NERF ALERT!!
+    - Deals Basic Damage now.
+    - Pay 3 to single-target instead of lowering damage.
+  - Gathering Charge
+    - Reworded.
+  - Genesis Mode
+    - Removed redundant text.
+  - Light Barrier
+    - Reorganized slightly.
+  - Mach 10
+    - Can only be used by Characters now.
+    - Reworked, Deals X Damage, where X is the number of Damage Counters on the user.
+  - Regrowth
+    - No longer heals.
+    - Sends the card to the top of your Deck now.
+  - Void Axe
+    - Reworded.
+  - Back Alley
+    - "Reachable Opponent Character" -> "Opponent Character"
+  - Ranulf Starigan, Overseer of Talthrim
+    - Removed the True Damage ability.
+  - Xavior Leo, Existence Purger
+    - Reworded slightly.
+  - Galactic Aura
+    - Defense Archetype -> Negate Energy Attack Archetypes
+    - 4+ Players now contains "then hit all reachable opponents for X True Damage".
+Updated Templates
+  - Increased size of illustrator name box.
+Updated Rulebook
+  - New Card Anatomy Image (Same card, new template)
+Updated Deck Editor to reflect new data.
+
 << Posted on November 21, 2022 >>
 Removed the LackeyCCG Plugin again.
   - LackeyCCG is dead, no reason to support it.
