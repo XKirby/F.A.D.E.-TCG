@@ -8,6 +8,9 @@ Card Tweaks
     - Rebalanced to do 12 Damage in one hit for its single-target.
   - Galaxy Ray
     - Overdrive reworded.
+Updated Rulebook
+  - Mentions of Activated Abilities
+  - Added Maximum Deck Size.
 Updated Deck Editor with changes.
 
 << Posted on November 29, 2022 >>
