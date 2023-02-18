@@ -1,3 +1,93 @@
+<< Posted on Feburary 18, 2023 >>
+Rulebook Updates
+  - Fixed some typos
+  - Removed the Equip Zone and its 5 card Equip limit.
+    - Too much field clutter was the concern. Instead, cards attach to everything naturally.
+  - Removed the Arena Zone.
+    - Zone cards will still be limited to one per player. This was just unnecessary field space as well.
+  - Removed Keywords
+    - Timid
+	- Tag-Out
+Template Tweaks
+  - Quite a few keywords were rewritten to be handled differently.
+  - Removed Keywords
+    - Timid
+	- Tag-Out
+Card Tweaks
+  - BS: Bulk Upgrade
+    - Slight PLV nerf from +4 to +3
+  - BS: Crashlanders
+    - HP nerfed from +4 to +2
+  - BS: Dreadforge Mindlinl
+    - TP Cost increase from 4 to 5
+  - BS: Electron Barrier
+    - TP Cost decrease from 5 to 4
+	- Effect prevention punishment decrease from 2 to 1
+  - BS: Molecular Hyperdrive
+    - Buffed On Attack Successfully Gain TP to On Attack Gain TP
+  - BS: Negate Draw
+    - TP Cost increase from 2 to 4
+  - BS: Overclock
+    - Added a new Power Counter generation method.
+  - BS: Overpower
+    - Swapped the art with an older picture.
+  - BS: Superpower Aura
+    - TP Cost increase from 4 to 5
+  - BS: Technophobia
+    - Slight reword
+  - BS: Alex Leo
+    - Slight reword
+    - Typo Fix
+  - BS: Arrogant Gangster
+    - Slight reword
+  - BS: Animus Spirit Hakkon
+    - Removed Backup effect
+  - BS: Seawitch Atholla
+    - Removed Backup effect
+  - BS: Shinesteel Sentinel
+    - Fixed typo
+  - BS: Angelic Smite
+    - TP Cost increase from 4 to 5
+  - BS: MIRV Grenade
+    - Increased target count from Minimum X to X+1
+  - BS: Shock Trap
+    - Made significantly more useful for Power Counter removal
+  - BS: Genesis Mode
+    - Made the buffs last an entire round.
+  - BS: Ion Discharge
+    - Reworded
+  - BS: Ironblood Screech
+    - Removed Timid and added 1 Paralyze Counter instead.
+  - BS: Temporal Fracture
+    - TP Cost reduced from 1 to 0
+  - BS: Wish of Death
+    - Reworded slightly
+  - BS: Moebius Wormhole
+    - Reworded slightly, allowing for some funny control implications
+  - BS: Ranulf Starigan, Overseer of Talthrim
+    - Removed Lock-On, granted Multistrike X equal to the number of Players at 4+.
+	- Original 4+ became 3+.
+  - BS: Xavior Leo, Existence Purger
+    - Made the 3+ easier to deal with until you add another player.
+    - Made the 4+ much harder to deal with.
+  - BS: Ace of Dreams
+    - The 20: Knock out a Player and Steal Cards effect was changed.
+	  - No longer steals from Deck, instead stealing from Hand.
+	  - Puts on top instead of bottom now.
+  - BS: Galactic Aura
+    - Negation nerfed to half of X rounded up.
+New Art!
+  - BS: Gift of Darkness
+  - BS: Gift of Evergreen
+  - BS: Gift of Light
+  - BS: Gift of Steel
+  - BS: Gift of the Ages
+  - BS: Gift of the Flame
+  - BS: Gift of the Mineral
+  - BS: Gift of the Nebula
+  - BS: Gift of the Ocean
+  - BS: Gift of the Zephyr
+
 << Posted on January 14, 2023 >>
 Lots of Undocumented Card Tweaks
   - Forgot to keep track of stuff, sorry.
