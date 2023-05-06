@@ -1,3 +1,13 @@
+<< Posted on May 6, 2023 >>
+Template Tweaks
+  - Cleaned up some code, added a rounded border, and shrunk the card back down to 725x1025.
+Card Tweaks
+  - Minor text formatting on some cards.
+  - BS: Crusader Golem
+    - Level increased from 2 to 4
+Rulebook Tweaks
+  - Minor grammar changes to make things more understandable.
+
 << Posted on Feburary 18, 2023 >>
 Rulebook Updates
   - Fixed some typos
