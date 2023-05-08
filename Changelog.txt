@@ -1,3 +1,100 @@
+<< Posted on May 8, 2023 >>
+Card Tweaks
+  - BS: Abyssal Orb
+    - Given Mythical, Equip Player
+  - BS: Cybernetic Implants
+    - Given Equip Player
+  - BS: Serpent's Tongue
+    - Given Equip Player
+  - BS: Arrogant Thug
+    - Reworded slightly
+  - BS: Crusader Golem
+    - TP Cost increase from 1 to 2
+  - BS: Dreadforge Assassin
+    - Concussion given a short time limit
+  - BS: Forgemaster
+    - Reveals obtained card now
+  - BS: Fury Elemental
+    - Knocked Out instead of directly Destroyed
+  - BS: Lilly Poh
+    - Reworded
+  - BS: Lunar Mylus
+    - Reworded
+  - BS: Lyle Rage Form Omega
+    - Removed Immunity to old Timid Keyword
+  - BS: Marko Sears
+    - Effect nerf for readability
+  - BS: Match Gunther
+    - Fixed a typo
+  - BS: Shawn Mylus
+    - Renamed slightly
+  - BS: Space Kraken
+    - Given Mythical and made Super Rare
+  - BS: Stellar Vagrant
+    - Reworded effect, similar timing window
+  - BS: Blade of Kings
+    - Effect reworked to double PLV instead of increase base on Level.
+  - BS: Amplify
+    - TP Cost increase from 1 to 3, allowed targeting players
+  - BS: Astral Destiny
+    - Removed accidental leftover text
+  - BS: Black Ice
+    - TP Cost increased from 1 to 2, now reduces any type of damage
+  - BS: Boiling Ice Armor
+    - Reworded, technically a nerf
+  - BS: Compress
+    - Made it Metal/Earth Elements instead of just Earth Element
+  - BS: Bloody Slash
+    - TP Cost decrease from 3 to 2
+  - BS: Bonecracking Punch
+    - Fracture nerfed to half, Damage nerfed to +2
+  - BS: Chronoboost
+    - Damage nerfed to 1
+  - BS: Gathering Charge
+    - Changed from Light/Storm to Space/Storm
+  - BS: Genesis Mode
+    - Changed from Space to Null
+  - BS: Infernal Blast
+    - Damage nerfed from +5 to +3
+  - BS: Ion Discharge
+    - No longer costs TP, instead dropping your TP to 0 after dealing damage
+    - Rank increased from Hyper to Ultra
+  - BS: Light Barrier
+    - Grants 1 Shield OR 1 Barrier instead of both
+  - BS: Mud Spike
+    - Forgot to fix it when I removed "Equip Zones"
+  - BS: Photosynthesis Shot
+    - Damage nerfed to +2, Healing nerfed to 2
+  - BS: Puncture Shot
+    - Concussion now ends at This turn's End Phase, similar timing window
+  - BS: Regrowth
+    - Reveals the searched card
+  - BS: Sands of Time
+    - Damage nerfed to 6
+  - BS: Temporal Fracture
+    - Damage nerfed to 1
+  - BS: UV Blast
+    - Damage nerfed to +0
+  - BS: Void Axe
+    - Changed from Ultra to Hyper
+  - BS: Weapon Drive
+    - Given Equipment Archetype
+  - BS: Back Alley
+    - Grants 1 Blindness OR 1 Fracture instead of both
+  - BS: Technopolis Skate Park
+    - Reworded
+  - Reactions got reworded a bit
+
+Rulebook Tweaks
+  - Items & Augments
+    - Single-use Items are now specifically destroyed upon resolving.
+  - Multiple Supertypes
+    - Lists more detail about some of the properties.
+  - Keywords
+    - Lots of fixes
+  - Legends
+    - Must now always have a full Hand of cards for intent
+
 << Posted on May 6, 2023 >>
 Template Tweaks
   - Cleaned up some code, added a rounded border, and shrunk the card back down to 725x1025.
