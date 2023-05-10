@@ -1,0 +1,8 @@
+<formatdefinitions>
+
+<format>
+	<label>Unlimited</label>
+	<set>BS</set>
+</format>
+
+</formatdefinitions>

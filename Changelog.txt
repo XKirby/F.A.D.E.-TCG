@@ -1,3 +1,11 @@
+<< Posted on May 10, 2023 >>
+Reinstated LackeyCCG Plugin
+  - The other Deckbuilder wasn't cutting it.
+Template Tweaks
+  - Added CSV-style column tags to the top of the card data file for use with LackeyCCG again.
+Card Resolution cut by 50%
+  - So TTS doesn't take ages to load when deck searching and so LackeyCCG doesn't end up showing massive cards.
+
 << Posted on May 8, 2023 >>
 Card Tweaks
   - BS: Abyssal Orb
