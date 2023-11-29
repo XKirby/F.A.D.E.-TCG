@@ -1,3 +1,24 @@
+<< Posted on November 28, 2023 >>
+Some cards reworded/rebalanced ever-so-slightly.
+  - Forgot which, I should really keep better track of this, but it's been a LONG TIME.
+Added the following cards:
+  - Darkness Essence
+  - Earth Essence
+  - Fire Essence
+  - Light Essence
+  - Metal Essence
+  - Nature Essence
+  - Space Essence
+  - Storm Essence
+  - Time Essence
+  - Water Essence
+  - Jackpot of Calamity
+  - Power Cable
+  - Token Fire
+  - Call of the Void
+Added Illustrations
+  - Lyle Rage, The Original Legend
+
 << Posted on May 10, 2023 >>
 Reinstated LackeyCCG Plugin
   - The other Deckbuilder wasn't cutting it.
