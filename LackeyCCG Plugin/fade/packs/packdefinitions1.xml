@@ -15,15 +15,11 @@
 	<chance>
 		<prob>100</prob>
 		<kind>
-			<qty>1</qty>
-			<crit><field>Rarity</field><eval>CONTAINS</eval><data> Rare</data></crit>
-		</kind>
-		<kind>
 			<qty>2</qty>
 			<crit><field>Rarity</field><eval>CONTAINS</eval><data>Rare</data></crit>
 		</kind>
 		<kind>
-			<qty>5</qty>
+			<qty>6</qty>
 			<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
 		</kind>
 		<kind>

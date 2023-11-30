@@ -1,23 +1,60 @@
+<< Posted on November 29, 2023 >>
+Extremely minor template tweaks
+Card Tweaks
+  - BS: Loaded Dice
+    - Given Chance Archetype
+  - BS: Arrogant Gangster
+    - Archetype Changed from Thug to Brute
+  - BS: Captain Meteor
+    - Archetype Changed from Cadet to Cosmonaut Soldier
+  - BS: Lars Draigo
+    - Archetype Changed from Thug to Brute
+  - BS: Riley Aero
+    - Archetype Changed from Trickster Lycan Fighter to Fey Trickster
+  - BS: Rundo Rondo
+    - Archetype Changed from Thug to Brute
+  - BS: Stellar Vagrant
+    - Archetype Changed from Cadet to Cosmonaut Trickster
+  - BS: Thunderous Hermit
+    - Archetype Changed from Cadet to Elemental Fighter
+  - BS: Vampiric Dart
+    - Removed Burn Archetype
+  - BS: Spikepit Trap
+    - Removed Counter Archetype
+  - BS: Flareskin
+    - Increased Rank from Normal to Special, made significantly more useful
+  - BS: Hornetstorm
+    - Fixed a typo, now deals 1 damage 4 times
+  - BS: Penultimate Stop
+    - Removed Discard effect, replaced with Turn-ending
+  - BS: Riposte
+    - Archetype Changed from Counter to Deflect
+  - BS: Smog Screen
+    - Archetype Changed from Curse Defense to Curse Counter
+  - Cards with the Counter Archetype will now say "Hit target attacker" instead of "Counter-hit"
+Added Illustrations
+  - BS: Hellrealm Dimension
+
 << Posted on November 28, 2023 >>
 Some cards reworded/rebalanced ever-so-slightly.
   - Forgot which, I should really keep better track of this, but it's been a LONG TIME.
 Added the following cards:
-  - Darkness Essence
-  - Earth Essence
-  - Fire Essence
-  - Light Essence
-  - Metal Essence
-  - Nature Essence
-  - Space Essence
-  - Storm Essence
-  - Time Essence
-  - Water Essence
-  - Jackpot of Calamity
-  - Power Cable
-  - Token Fire
-  - Call of the Void
+  - BS: Darkness Essence
+  - BS: Earth Essence
+  - BS: Fire Essence
+  - BS: Light Essence
+  - BS: Metal Essence
+  - BS: Nature Essence
+  - BS: Space Essence
+  - BS: Storm Essence
+  - BS: Time Essence
+  - BS: Water Essence
+  - BS: Jackpot of Calamity
+  - BS: Power Cable
+  - BS: Token Fire
+  - BS: Call of the Void
 Added Illustrations
-  - Lyle Rage, The Original Legend
+  - BS: Lyle Rage, The Original Legend
 
 << Posted on May 10, 2023 >>
 Reinstated LackeyCCG Plugin
@@ -113,7 +150,6 @@ Card Tweaks
   - BS: Technopolis Skate Park
     - Reworded
   - Reactions got reworded a bit
-
 Rulebook Tweaks
   - Items & Augments
     - Single-use Items are now specifically destroyed upon resolving.
