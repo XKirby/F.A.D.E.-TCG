@@ -1,3 +1,8 @@
+<< Posted on February 19, 2024 >>
+- Added reminder text linking. Keywords can be comma-separated and list all their effects on one line now.
+- With the above change, I've updated basically every card to utilize it as best as I can.
+- Counter Keywords are now referenced as "X C" internally, but should be written as "X Counter/s" for readability.
+
 << Posted on November 29, 2023 >>
 Extremely minor template tweaks
 Card Tweaks
