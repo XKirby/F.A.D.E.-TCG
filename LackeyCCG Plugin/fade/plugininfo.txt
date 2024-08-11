@@ -160,7 +160,7 @@
 	</generalfunction>
 	
 	<generalfunction>
-		<label>Rift Top Card</label>
+		<label>Imprison Top Card</label>
 		<kind>TRANSFERCARD</kind>
 		<sourceowner>performer</sourceowner>
 		<sourcegamezone>Deck</sourcegamezone>
@@ -172,7 +172,7 @@
 	</generalfunction>
 	
 	<generalfunction>
-		<label>Rift Bottom Card</label>
+		<label>Imprison Bottom Card</label>
 		<kind>TRANSFERCARD</kind>
 		<sourceowner>performer</sourceowner>
 		<sourcegamezone>Deck</sourcegamezone>

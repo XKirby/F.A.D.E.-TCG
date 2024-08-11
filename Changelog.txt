@@ -1,7 +1,9 @@
-<< Posted on February 19, 2024 >>
-- Added reminder text linking. Keywords can be comma-separated and list all their effects on one line now.
-- With the above change, I've updated basically every card to utilize it as best as I can.
-- Counter Keywords are now referenced as "X C" internally, but should be written as "X Counter/s" for readability.
+<< August 11, 2024 >>
+God it's been a while...
+- Reformatted Legend-related ability text blocks. ("[X Players]\n <effect>" is now "X Players: <effect>")
+- Reformatted small bits of Keyword ability text for consistency.
+- Changed location of HP/PLV on cards that utilize them and made their text vs. icon locations consistent.
+- Possible other minor card changes included.
 
 << Posted on November 29, 2023 >>
 Extremely minor template tweaks

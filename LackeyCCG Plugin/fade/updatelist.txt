@@ -1,10 +1,10 @@
-fade	02-19-24
-plugins/fade/plugininfo.txt	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/plugininfo.txt	477409
+fade	06-11-24
+plugins/fade/plugininfo.txt	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/plugininfo.txt	478297
 plugins/fade/formats.txt	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/formats.txt	8913
-plugins/fade/rulebook.pdf	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/Tabletop%20Simulator%20Stuff/FADE%20v4.0%20Ruleset.pdf	1638769
+plugins/fade/rulebook.pdf	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/Tabletop%20Simulator%20Stuff/FADE%20v4.0%20Ruleset.pdf	1531741
 plugins/fade/images/counterred.png	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/images/counterred.png	9590
 plugins/fade/packs/packdefinitions1.xml	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/packs/packdefinitions1.xml	58032
-plugins/fade/sets/dataBS.txt	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/sets/dataBS.txt	7384016
+plugins/fade/sets/dataBS.txt	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/sets/dataBS.txt	7355776
 plugins/fade/sets/setimages/general/cardback.png	https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/LackeyCCG%20Plugin/fade/sets/setimages/general/cardback.png	-56815
 CardGeneralURLs:
 https://raw.githubusercontent.com/XKirby/F.A.D.E.-TCG/master/Tabletop%20Simulator%20Stuff/Cards
