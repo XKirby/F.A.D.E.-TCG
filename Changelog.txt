@@ -1,3 +1,7 @@
+<< August 12, 2024 >>
+- Reformatted a lot more Keyword ability text for better readability.
+- Rulebook adjustments for clarity.
+
 << August 11, 2024 >>
 God it's been a while...
 - Reformatted Legend-related ability text blocks. ("[X Players]\n <effect>" is now "X Players: <effect>")
