@@ -1,3 +1,7 @@
+<< August 14, 2024 >>
+- Added self-generated AI art to most of the cards. Some art left in-tact.
+- Fixed a few typos.
+
 << August 12, 2024 >>
 - Reformatted a lot more Keyword ability text for better readability.
 - Rulebook adjustments for clarity.
