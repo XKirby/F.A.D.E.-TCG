@@ -1,3 +1,7 @@
+<< August 15, 2024 >>
+- Replaced a bit more art with AI Generated art.
+- Fixed the rulebook having an older image showcasing card anatomy.
+
 << August 14, 2024 >>
 - Added self-generated AI art to most of the cards. Some art left in-tact.
 - Fixed a few typos.
