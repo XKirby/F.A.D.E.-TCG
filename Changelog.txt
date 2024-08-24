@@ -1,3 +1,9 @@
+<< August 24, 2024 >>
+- Major Template Keyword update
+- Added "Orbital" Keyword
+- Major Ability Text fix for even more consistency
+- Added some Omega Rare Fullarts!
+
 << August 15, 2024 >>
 - Replaced a bit more art with AI Generated art.
 - Fixed the rulebook having an older image showcasing card anatomy.
