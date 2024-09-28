@@ -1,0 +1,16 @@
+1	Demon Eye BS 276
+4	Thoughts of Blasphemy BS 271
+2	Melanite Ring BS 103
+2	Almadine Ring BS 092
+2	Artificial Attack BS 201
+1	Hellrealm Dimension BS 254
+3	Riley Aero BS 081
+3	Fury Elemental BS 064
+1	Power Potion BS 132
+2	Bloody Slash BS 205
+2	Darkness Aura BS 169
+2	Taunt BS 194
+2	Flareskin BS 174
+2	Infernal Blast BS 224
+Fighter Pool:
+1	Kyle Rage, Demonic Overlord BS 267
