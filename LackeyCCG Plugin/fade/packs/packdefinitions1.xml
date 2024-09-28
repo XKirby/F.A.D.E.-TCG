@@ -13,10 +13,82 @@
 	<packkind>Booster</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>BS</data></packcommoncrit>
 	<chance>
-		<prob>100</prob>
+		<prob>3</prob>
+		<kind>
+			<qty>1</qty>
+			<crit><field>Rarity</field><eval>CONTAINS</eval><data> Rare</data></crit>
+		</kind>
+		<kind>
+			<qty>6</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
+		</kind>
+		<kind>
+			<qty>10</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+		</kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind>
+			<qty>1</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>Omega Rare</data></crit>
+		</kind>
+		<kind>
+			<qty>1</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+		</kind>
+		<kind>
+			<qty>6</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
+		</kind>
+		<kind>
+			<qty>10</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+		</kind>
+	</chance>
+	<chance>
+		<prob>7</prob>
+		<kind>
+			<qty>1</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit>
+		</kind>
+		<kind>
+			<qty>1</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+		</kind>
+		<kind>
+			<qty>6</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
+		</kind>
+		<kind>
+			<qty>10</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+		</kind>
+	</chance>
+	<chance>
+		<prob>15</prob>
+		<kind>
+			<qty>1</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>Super Rare</data></crit>
+		</kind>
+		<kind>
+			<qty>1</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+		</kind>
+		<kind>
+			<qty>6</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
+		</kind>
+		<kind>
+			<qty>10</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+		</kind>
+	</chance>
+	<chance>
+		<prob>80</prob>
 		<kind>
 			<qty>2</qty>
-			<crit><field>Rarity</field><eval>CONTAINS</eval><data>Rare</data></crit>
+			<crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
 		</kind>
 		<kind>
 			<qty>6</qty>

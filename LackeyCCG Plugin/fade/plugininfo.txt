@@ -188,22 +188,6 @@
 		<kind>TURNOVER</kind>
 		<includeasbutton>yes</includeasbutton>
 	</cardfunction>
-
-	<cardfunction>
-		<label>Add Power Counter</label>
-		<kind>ADDCOUNTER</kind>
-		<color>red</color>
-		<PositionX>1.0</PositionX>
-		<PositionY>0.1</PositionY>
-		<includeasbutton>yes</includeasbutton>
-	</cardfunction>
-
-	<cardfunction>
-		<label>Remove Power Counter</label>
-		<kind>REMOVECOUNTER</kind>
-		<color>red</color>
-		<includeasbutton>yes</includeasbutton>
-	</cardfunction>
 	
 	<cardfunction>
 		<label>Edit Notes</label>

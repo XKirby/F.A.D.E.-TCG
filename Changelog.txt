@@ -1,3 +1,11 @@
+<< September 27, 2024 >>
+- Removed Carrier.
+- Removed Counter type icons.
+- Reworked certain keywords to be new Counter types or to function better.
+- Reworked Counter keywords to not use the word "Counter", instead using a numeral.
+- Loads of balance changes.
+- Attempts at text minimization, unfortunately because the way Counters work now is way too bulky.
+
 << August 24, 2024 >>
 - Major Template Keyword update
 - Added "Orbital" Keyword
