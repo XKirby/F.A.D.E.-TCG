@@ -1,3 +1,9 @@
+<< January 20, 2025 >>
+- Switched Archetypes on one card
+- Changed some AI-Generated art to look better
+- Updated the Card Back to look better
+- Templates now fill out the cards' corners with the right color
+
 << September 27, 2024 >>
 - Removed Carrier.
 - Removed Counter type icons.
