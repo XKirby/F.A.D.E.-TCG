@@ -1,5 +1,5 @@
 <version>
-	<lastupdateYYMMDD>250120</lastupdateYYMMDD>
+	<lastupdateYYMMDD>250206</lastupdateYYMMDD>
 	<quality>MEDIUM</quality>
 	<versionurl>https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/version.txt</versionurl>
 	<updateurl>https://github.com/XKirby/F.A.D.E.-TCG/tree/master/LackeyCCG%20Plugin/fade/updatelist.txt</updateurl>

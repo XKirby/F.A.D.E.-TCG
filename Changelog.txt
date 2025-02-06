@@ -1,3 +1,20 @@
+<< February 6, 2025 >>
+- Changed Darkness-type to black.
+- Changed Null-type to white with a hexagon.
+- Added Card faces for each elemental color, including Null-type, and having 6+ Colors on a card changes the face to a Rainbow gradient.
+- Changed Level-Up to Transform.
+- Changed Mythical to limit how many copies can be on the field under your control.
+- Changed Orbital completely, now makes the target unreachable except by other cards with Orbital.
+- Changed Lock-On to be simpler.
+- Multistrike now requires multiple targets.
+- Added Exhaust, Energize, and Flurry as Keywords.
+- Removed Character Levels as a mechanic.
+- Removed the Item Element. It worked similar to Null-type and only appeared on items.
+- Removed references to Legend and Zone card types.
+- Remove all instances of AI Art.
+- Changed some Item Augments to be just Augments.
+- Updated Rulebook with changes.
+
 << January 20, 2025 >>
 - Switched Archetypes on one card
 - Changed some AI-Generated art to look better
