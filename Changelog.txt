@@ -1,3 +1,8 @@
+<< February 7, 2025 >>
+- Added a few more cards to the Base Set.
+- Added a few more illustrations to the Base Set.
+- Removed references to "card effects" in the rulebook, as they're now referenced as "card abilities".
+
 << February 6, 2025 >>
 - Changed Darkness-type to black.
 - Changed Null-type to white with a hexagon.
@@ -10,7 +15,7 @@
 - Added Exhaust, Energize, and Flurry as Keywords.
 - Removed Character Levels as a mechanic.
 - Removed the Item Element. It worked similar to Null-type and only appeared on items.
-- Removed references to Legend and Zone card types.
+- Removed references to Legend and Zone card types. Cards of these types that existed were reworked.
 - Remove all instances of AI Art.
 - Changed some Item Augments to be just Augments.
 - Updated Rulebook with changes.
