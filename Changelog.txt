@@ -1,3 +1,8 @@
+<< July 6, 2025 >>
+- Lots of Card fixes and Keyword changes.
+- Boss Keyword reintroduced on Overlord Characters.
+- Various "Once per turn" and "Once per round" effects replaced with Exhaust.
+
 << February 7, 2025 >>
 - Added a few more cards to the Base Set.
 - Added a few more illustrations to the Base Set.
