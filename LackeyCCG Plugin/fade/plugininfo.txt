@@ -35,13 +35,13 @@
 	</gamezone>
 
 	<gamezone>
-		<label>Discard</label>
+		<label>Discard Pile</label>
 		<visibletoowner>yes</visibletoowner>
 		<visibletoothers>yes</visibletoothers>
 	</gamezone>
 
 	<gamezone>
-		<label>Rift</label>
+		<label>Rift Zone</label>
 		<visibletoowner>yes</visibletoowner>
 		<visibletoothers>yes</visibletoothers>
 	</gamezone>

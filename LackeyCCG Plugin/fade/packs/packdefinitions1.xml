@@ -9,26 +9,30 @@
 </pack>
 
 <pack>
-	<packtitle>Base Set 18 Card Booster</packtitle>
+	<packtitle>Base Set 15 Card Booster</packtitle>
 	<packkind>Booster</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>BS</data></packcommoncrit>
 	<chance>
-		<prob>3</prob>
+		<prob>0.5</prob>
+		<kind>
+			<qty>1</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>Omega Rare</data></crit>
+		</kind>
 		<kind>
 			<qty>1</qty>
 			<crit><field>Rarity</field><eval>CONTAINS</eval><data> Rare</data></crit>
 		</kind>
 		<kind>
-			<qty>6</qty>
+			<qty>5</qty>
 			<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
 		</kind>
 		<kind>
-			<qty>10</qty>
+			<qty>8</qty>
 			<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
 		</kind>
 	</chance>
 	<chance>
-		<prob>5</prob>
+		<prob>2.5</prob>
 		<kind>
 			<qty>1</qty>
 			<crit><field>Rarity</field><eval>IS</eval><data>Omega Rare</data></crit>
@@ -38,11 +42,11 @@
 			<crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
 		</kind>
 		<kind>
-			<qty>6</qty>
+			<qty>5</qty>
 			<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
 		</kind>
 		<kind>
-			<qty>10</qty>
+			<qty>8</qty>
 			<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
 		</kind>
 	</chance>
@@ -57,16 +61,16 @@
 			<crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
 		</kind>
 		<kind>
-			<qty>6</qty>
+			<qty>5</qty>
 			<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
 		</kind>
 		<kind>
-			<qty>10</qty>
+			<qty>8</qty>
 			<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
 		</kind>
 	</chance>
 	<chance>
-		<prob>15</prob>
+		<prob>10</prob>
 		<kind>
 			<qty>1</qty>
 			<crit><field>Rarity</field><eval>IS</eval><data>Super Rare</data></crit>
@@ -76,11 +80,11 @@
 			<crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
 		</kind>
 		<kind>
-			<qty>6</qty>
+			<qty>5</qty>
 			<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
 		</kind>
 		<kind>
-			<qty>10</qty>
+			<qty>8</qty>
 			<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
 		</kind>
 	</chance>
@@ -91,11 +95,11 @@
 			<crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
 		</kind>
 		<kind>
-			<qty>6</qty>
+			<qty>5</qty>
 			<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
 		</kind>
 		<kind>
-			<qty>10</qty>
+			<qty>8</qty>
 			<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
 		</kind>
 	</chance>

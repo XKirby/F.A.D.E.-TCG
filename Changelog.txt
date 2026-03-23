@@ -1,3 +1,9 @@
+<< March 23, 2026 >>
+- Templates fixes and optimizations for latest version of Magic Set Editor.
+- Lots of Card wording adjustments and fixes.
+- Keyword fixes, adjustments, and additions, mostly for clarification.
+- Updated the rulebook with the above changes and further clarification.
+
 << July 6, 2025 >>
 - Lots of Card fixes and Keyword changes.
 - Boss Keyword reintroduced on Overlord Characters.
