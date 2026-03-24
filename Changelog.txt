@@ -1,3 +1,11 @@
+<< March 24, 2026 >>
+- Added a Card Color chart to the files to show what playstyles I want for each color.
+  - I used to have better notes but I deleted them. This will have to do.
+- A lot more card adjustments.
+- Added a link to BitFontMaker2 for reference.
+- Updated the LackeyCCG plugin with all of the recent changes.
+  - I technically also did this yesterday but ended up posting more changes that I had to account for today.
+
 << March 23, 2026 >>
 - Templates fixes and optimizations for latest version of Magic Set Editor.
 - Lots of Card wording adjustments and fixes.

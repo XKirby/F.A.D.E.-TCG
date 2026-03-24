@@ -1,0 +1,54 @@
+[Null]
+Primary: Item cards, Void.
+Secondary: Copying cards or abilities.
+Tertiary: Basic catch-all for other Elements or abilities, usually converting them to Null-type.
+
+[Fire]
+Primary: High Damage and destruction.
+Secondary: Powerlevel Boosting, Aura and Drain Counters.
+Tertiary: Various other Ailments.
+
+[Water]
+Primary: Card advantage.
+Secondary: Stax or Punish, usually with Taxes.
+Tertiary: Protection effects, Paralyze Counters.
+
+[Earth]
+Primary: High HP, Fracture Counters, destruction effects.
+Secondary: Anti-Augment, Anti-Equip, semi-high Damage.
+Tertiary: Character cost reduction, Damage reduction or prevention.
+
+[Storm]
+Primary: Power Counters, Flash, Multistrike.
+Secondary: Other Resource generation and counterplay.
+Tertiary: Paralyze Counters.
+
+[Nature]
+Primary: Poison Counters.
+Secondary: Mill, Discard, Returning cards from your Discard Pile.
+Tertiary: Varied Support, Powerlevel Boosting.
+
+[Metal]
+Primary: Lock-On, Arm Up, Equip.
+Secondary: Damage alterations, Shield Counters.
+Tertiary: Very high Damage, Max HP reduction, Damage Counters.
+
+[Light]
+Primary: Healing, Barrier Counters, Protection effects.
+Secondary: Low Damage, Anthem Buffs.
+Tertiary: Varied Support, Stax, Reveal effects.
+
+[Darkness]
+Primary: Ailments, Concussion, Deathmark, Knock Outs.
+Secondary: High Damage, Curse.
+Tertiary: Varied Support, Bullying effects.
+
+[Time]
+Primary: Low Damage, Charge, Very High TP generation.
+Secondary: Game State manipulation
+Tertiary: Replay, Rapid Plays, Ailment and Damage Self for power.
+
+[Space]
+Primary: Imprison, Imprison Self for power.
+Secondary: Effect Recursion, Max TP alteration.
+Tertiary: Varied Support, Damage alterations.
