@@ -1,3 +1,8 @@
+<< March 31, 2026 >>
+- Updated the LackeyCCG Plugin.
+  - Changed the Base Set Booster Pack Definition.
+  - Updated bits and pieces of the Rulebook.
+
 << March 30, 2026 >>
 - Major Template refactors for optimization and better workflow.
   - Fixed the entire Base Set to work with the new workflow.

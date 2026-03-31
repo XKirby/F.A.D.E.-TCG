@@ -13,7 +13,7 @@
 	<packkind>Booster</packkind>
 	<packcommoncrit><field>Set</field><eval>IS</eval><data>BS</data></packcommoncrit>
 	<chance>
-		<prob>0.5</prob>
+		<prob>0.1</prob>
 		<kind>
 			<qty>1</qty>
 			<crit><field>Rarity</field><eval>IS</eval><data>Omega Rare</data></crit>
@@ -32,7 +32,7 @@
 		</kind>
 	</chance>
 	<chance>
-		<prob>2.5</prob>
+		<prob>0.9</prob>
 		<kind>
 			<qty>1</qty>
 			<crit><field>Rarity</field><eval>IS</eval><data>Omega Rare</data></crit>
@@ -51,7 +51,7 @@
 		</kind>
 	</chance>
 	<chance>
-		<prob>7</prob>
+		<prob>4</prob>
 		<kind>
 			<qty>1</qty>
 			<crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit>
@@ -89,13 +89,28 @@
 		</kind>
 	</chance>
 	<chance>
-		<prob>80</prob>
+		<prob>25</prob>
 		<kind>
 			<qty>2</qty>
 			<crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
 		</kind>
 		<kind>
 			<qty>5</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
+		</kind>
+		<kind>
+			<qty>8</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+		</kind>
+	</chance>
+	<chance>
+		<prob>60</prob>
+		<kind>
+			<qty>1</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+		</kind>
+		<kind>
+			<qty>6</qty>
 			<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
 		</kind>
 		<kind>
