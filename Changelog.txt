@@ -1,3 +1,12 @@
+<< September 11, 2026 >>
+- Updated Card Templates.
+- Updated the formatting and reintroduced a ton of Reminder Text to cards in the Base Set.
+- Updated the Rulebook.
+  - Introduced clearer rules for Resolving Chains and Player Priority.
+  - Simplified rules related to Attackers and Defenders, specifying them as Combat Basics.
+  - Changed the font and cleaned up the formatting.
+- Uploaded the Base Set MSESet file.
+
 << March 31, 2026 >>
 - Updated the LackeyCCG Plugin.
   - Changed the Base Set Booster Pack Definition.
